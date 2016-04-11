@@ -133,6 +133,12 @@
         <mark key="]" line="155" column="42" />
         <mark key="." line="155" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1460408319531">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/js/zerif.js" timestamp="1449239361455">
         <mark key="[" line="306" column="14" />
         <mark key="]" line="306" column="14" />
@@ -211,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -223,34 +229,34 @@
         <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQiOiB7CiAgICAgICAgICAgICAgIl90ZW1wbGF0ZSI6ICIvYXNzZXRzL3RlbXBsYXRlcy9iYXNlL2NvbW1vbi9odG1sIiwKICAgICAgICAgICAgICAidGV4dCI6ICJTdGFydCBTbGlkZXNob3ciCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>b</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>z</text>
       </register>
       <register name="6" type="4">
         <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -289,8 +295,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set nu</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
