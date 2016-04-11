@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="95afeb97-0c9d-4445-ae33-993b7f781c9b" name="ryotdev.mcribbs.net" url="http://ryotdev.mcribbs.net">
+        <fileTransfer host="ryotdev.mcribbs.net" port="22" rootFolder="/home/mcribbs" accessType="SFTP" password="dfebdfc3dffedfc2df9fdfc2dfeedfe0" username="mcribbs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

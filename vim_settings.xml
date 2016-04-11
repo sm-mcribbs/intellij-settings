@@ -1,0 +1,268 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-single.php" timestamp="1449415422252">
+        <mark key="[" line="29" column="13" />
+      </file>
+      <file name="/a.dummy" timestamp="1460325114218">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/stream-status-widget.php" timestamp="1449331018689">
+        <mark key="[" line="155" column="42" />
+        <mark key="]" line="155" column="42" />
+        <mark key="." line="155" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" timestamp="1460339269130">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/js/zerif.js" timestamp="1449239361455">
+        <mark key="[" line="306" column="14" />
+        <mark key="]" line="306" column="14" />
+        <mark key="^" line="306" column="14" />
+        <mark key="." line="306" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" timestamp="1449336322864">
+        <mark key="'" line="50" column="41" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="29" column="42" />
+        <mark key="." line="29" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
+        <mark key="[" line="93" column="23" />
+        <mark key="]" line="93" column="31" />
+        <mark key="^" line="93" column="31" />
+        <mark key="." line="93" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1460339744052">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizMainViewCreator.java" timestamp="1460340034611">
+        <mark key="[" line="46" column="80" />
+        <mark key="]" line="46" column="84" />
+        <mark key="^" line="46" column="84" />
+        <mark key="." line="46" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/Personal/www.ryotcraft.com/wp-content/plugins/automatic-video-posts/common/internal.php" timestamp="1449238969335">
+        <mark key="[" line="105" column="2" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/template-tags.php" timestamp="1449416131982">
+        <mark key="[" line="194" column="15" />
+        <mark key="]" line="194" column="19" />
+        <mark key="^" line="194" column="19" />
+        <mark key="." line="194" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460334730998">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/style.css" timestamp="1449417963857">
+        <mark key="[" line="361" column="19" />
+        <mark key="]" line="361" column="22" />
+        <mark key="^" line="361" column="22" />
+        <mark key="." line="361" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/extend/class-templates.php" timestamp="1449330003970">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="13" />
+        <mark key="^" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1460334815988">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="36" />
+      </file>
+      <file name="/fragment.php" timestamp="1449243269896">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/footer.php" timestamp="1449249802272">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/slideshow.md" timestamp="1460342601867">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/sections/ribbon_with_bottom_button.php" timestamp="1449245708081">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1460329922015">
+        <mark key="'" line="225" column="24" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="98" column="32" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/automatic-video-posts/class/curl.php" timestamp="1449261903629">
+        <mark key="[" line="128" column="36" />
+        <mark key="]" line="128" column="40" />
+        <mark key="^" line="128" column="40" />
+        <mark key="." line="128" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" timestamp="1449249270687">
+        <mark key="'" line="423" column="10" />
+        <mark key="[" line="419" column="31" />
+        <mark key="]" line="419" column="37" />
+        <mark key="^" line="419" column="37" />
+        <mark key="." line="419" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/LinkViewCreator.java" timestamp="1449587781539">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content.php" timestamp="1449416224581">
+        <mark key="[" line="113" column="25" />
+        <mark key="]" line="113" column="26" />
+        <mark key="^" line="113" column="26" />
+        <mark key="." line="113" column="26" />
+      </file>
+      <file name="/fragment.java" timestamp="1460339519340">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1104" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="1116" column="0" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="1127" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="1131" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="1141" column="11" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="1146" column="11" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="1137" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="1142" column="11" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="174" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="182" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="206" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="214" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="222" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="375" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="383" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="407" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="415" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="423" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="50" column="41" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
+      <jump line="55" column="1" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
+      <jump line="79" column="15" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
+      <jump line="73" column="11" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
+      <jump line="216" column="24" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" />
+      <jump line="91" column="3" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
+      <jump line="34" column="8" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>`</text>
+      </register>
+      <register name="-" type="4">
+        <text>`</text>
+      </register>
+      <register name="/" type="4">
+        <text>prefix</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvKiBNdXRhdG9ycyAqLwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>`</text>
+      </register>
+      <register name="2" type="4">
+        <text>`</text>
+      </register>
+      <register name="3" type="4">
+        <text>`</text>
+      </register>
+      <register name="4" type="4">
+        <text>`</text>
+      </register>
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
+        <text>(</text>
+      </register>
+      <register name="7" type="4">
+        <text>e</text>
+      </register>
+      <register name="8" type="4">
+        <text>t</text>
+      </register>
+      <register name="9" type="4">
+        <text>a</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>prefix</last-search>
+      <last-offset />
+      <last-pattern>prefix</last-pattern>
+      <last-replace>votable</last-replace>
+      <last-substitute>twitter</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>yt_</entry>
+        <entry>fb_</entry>
+        <entry>gp_</entry>
+        <entry>facebook</entry>
+        <entry>twitter</entry>
+        <entry>prefix</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3l0Xy9wdF8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZiXy9ncF8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZiXy9pbl8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZiXy9kYV8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZiXy92dF8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZiXy9wbF8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2dwXy9waV8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhY2Vib29rL2dvb2dsZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhY2Vib29rL3JlZGRpdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhY2Vib29rL3ZvdGFibGUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhY2Vib29rL3lvdXR1YmUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhY2Vib29rL3R3aXRjaC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3R3aXR0ZXIvZ29vZ2xlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3R3aXR0ZXIvcmVkZGl0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3R3aXR0ZXIvdm90YWJsZS9n</entry>
+        <entry>set nu</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
