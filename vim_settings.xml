@@ -28,6 +28,12 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/_cequiz-in-2col.json" timestamp="1460405250303">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/style.css" timestamp="1449417963857">
         <mark key="[" line="361" column="19" />
         <mark key="]" line="361" column="22" />
@@ -98,6 +104,9 @@
         <mark key="]" line="23" column="32" />
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460405171206">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
         <mark key="[" line="93" column="23" />
@@ -208,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>slideshow</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>slideshow</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -220,31 +229,31 @@
         <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQiOiB7CiAgICAgICAgICAgICAgIl90ZW1wbGF0ZSI6ICIvYXNzZXRzL3RlbXBsYXRlcy9iYXNlL2NvbW1vbi9odG1sIiwKICAgICAgICAgICAgICAidGV4dCI6ICJTdGFydCBTbGlkZXNob3ciCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>}</text>
+        <text>slideshow</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>slideshow</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>w</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
