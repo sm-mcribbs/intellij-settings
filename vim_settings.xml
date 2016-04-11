@@ -59,6 +59,7 @@
         <mark key="^" line="46" column="84" />
         <mark key="." line="46" column="84" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" timestamp="1460391116824" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/extend/class-templates.php" timestamp="1449330003970">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="13" />
@@ -159,11 +160,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1460387759869">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1460391083927">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -195,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ToolUi</text>
+        <text>H</text>
       </register>
       <register name="-" type="4">
-        <text>ToolUi</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -207,31 +208,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuY21zLmRiLlRvb2xVaTsK</text>
       </register>
       <register name="1" type="4">
-        <text>ToolUi</text>
+        <text>H</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuY21zLmRiLio7Cg==</text>
+      <register name="2" type="4">
+        <text>L</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuY21zLmRiLio7Cg==</text>
+      <register name="3" type="4">
+        <text>A</text>
       </register>
       <register name="4" type="4">
-        <text>Headline</text>
+        <text>B</text>
       </register>
       <register name="5" type="4">
-        <text>Title</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>`</text>
+        <text>H</text>
       </register>
       <register name="7" type="4">
-        <text>`</text>
+        <text>A</text>
       </register>
       <register name="8" type="4">
-        <text>`</text>
+        <text>L</text>
       </register>
       <register name="9" type="4">
-        <text>`</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
