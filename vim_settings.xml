@@ -34,6 +34,12 @@
         <mark key="^" line="361" column="22" />
         <mark key="." line="361" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" timestamp="1460403696717">
+        <mark key="[" line="26" column="59" />
+        <mark key="]" line="26" column="86" />
+        <mark key="^" line="26" column="86" />
+        <mark key="." line="26" column="86" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="10" column="19" />
@@ -91,6 +97,9 @@
         <mark key="]" line="23" column="32" />
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460402645921">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
         <mark key="[" line="93" column="23" />
@@ -152,6 +161,12 @@
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.md" timestamp="1460403071184">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/sections/ribbon_with_bottom_button.php" timestamp="1449245708081">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -190,46 +205,47 @@
       <jump line="216" column="24" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" />
       <jump line="91" column="3" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
       <jump line="34" column="8" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
+      <jump line="33" column="11" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slideshow-</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>slideshow-</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuY21zLmRiLlRvb2xVaTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQiOiB7CiAgICAgICAgICAgICAgIl90ZW1wbGF0ZSI6ICIvYXNzZXRzL3RlbXBsYXRlcy9iYXNlL2NvbW1vbi9odG1sIiwKICAgICAgICAgICAgICAidGV4dCI6ICJTdGFydCBTbGlkZXNob3ciCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>slideshow-</text>
+        <text>}</text>
       </register>
       <register name="2" type="4">
-        <text>Slideshow</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text>H</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>L</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>A</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>B</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>H</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>A</text>
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
