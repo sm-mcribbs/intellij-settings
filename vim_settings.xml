@@ -71,8 +71,6 @@
         <mark key="^" line="46" column="84" />
         <mark key="." line="46" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" timestamp="1460391116824" />
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1460404345927" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/extend/class-templates.php" timestamp="1449330003970">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="13" />
@@ -146,7 +144,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/slideshow/slideshow.json" timestamp="1460404817333" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/footer.php" timestamp="1449249802272">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="29" />
@@ -166,11 +163,11 @@
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.md" timestamp="1460406581369">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="51" />
-        <mark key="^" line="5" column="51" />
-        <mark key="." line="5" column="51" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.md" timestamp="1460407130477">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/sections/ribbon_with_bottom_button.php" timestamp="1449245708081">
         <mark key="[" line="1" column="0" />
@@ -214,10 +211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -226,34 +223,34 @@
         <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQiOiB7CiAgICAgICAgICAgICAgIl90ZW1wbGF0ZSI6ICIvYXNzZXRzL3RlbXBsYXRlcy9iYXNlL2NvbW1vbi9odG1sIiwKICAgICAgICAgICAgICAidGV4dCI6ICJTdGFydCBTbGlkZXNob3ciCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="3" type="4">
-        <text>w</text>
-      </register>
-      <register name="4" type="4">
-        <text>o</text>
-      </register>
-      <register name="5" type="4">
-        <text>h</text>
-      </register>
-      <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
+      <register name="3" type="4">
+        <text>s</text>
       </register>
-      <register name="9" type="4">
+      <register name="4" type="4">
+        <text>n</text>
+      </register>
+      <register name="5" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
         <text>i</text>
       </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
+      <register name="8" type="4">
+        <text>a</text>
+      </register>
+      <register name="9" type="4">
+        <text>t</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -274,7 +271,6 @@
         <entry>twitter</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3l0Xy9wdF8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZiXy9ncF8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZiXy9pbl8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZiXy9kYV8vZw==</entry>
@@ -294,6 +290,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set nu</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
