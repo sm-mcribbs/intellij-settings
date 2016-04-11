@@ -193,10 +193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Slideshow</text>
+        <text>slideshow-</text>
       </register>
       <register name="-" type="4">
-        <text>Slideshow</text>
+        <text>slideshow-</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -205,31 +205,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuY21zLmRiLlRvb2xVaTsK</text>
       </register>
       <register name="1" type="4">
-        <text>Slideshow</text>
+        <text>slideshow-</text>
       </register>
       <register name="2" type="4">
-        <text>H</text>
+        <text>Slideshow</text>
       </register>
       <register name="3" type="4">
-        <text>L</text>
-      </register>
-      <register name="4" type="4">
-        <text>A</text>
-      </register>
-      <register name="5" type="4">
-        <text>B</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
         <text>H</text>
       </register>
-      <register name="8" type="4">
+      <register name="4" type="4">
+        <text>L</text>
+      </register>
+      <register name="5" type="4">
         <text>A</text>
       </register>
+      <register name="6" type="4">
+        <text>B</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>H</text>
+      </register>
       <register name="9" type="4">
-        <text>L</text>
+        <text>A</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
