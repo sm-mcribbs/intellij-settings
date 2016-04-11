@@ -169,11 +169,11 @@
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.md" timestamp="1460403071184">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="4" column="53" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.md" timestamp="1460406581369">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/sections/ribbon_with_bottom_button.php" timestamp="1449245708081">
         <mark key="[" line="1" column="0" />
@@ -217,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slideshow</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>slideshow</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -229,31 +229,31 @@
         <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQiOiB7CiAgICAgICAgICAgICAgIl90ZW1wbGF0ZSI6ICIvYXNzZXRzL3RlbXBsYXRlcy9iYXNlL2NvbW1vbi9odG1sIiwKICAgICAgICAgICAgICAidGV4dCI6ICJTdGFydCBTbGlkZXNob3ciCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>slideshow</text>
+        <text>:</text>
       </register>
       <register name="2" type="4">
-        <text>slideshow</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>}</text>
+        <text>w</text>
       </register>
       <register name="4" type="4">
-        <text>}</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>h</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
         <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
