@@ -88,6 +88,7 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/target/generated-sources/styleguide/com/sourcemedia/view/assets/templates/base/common/LinkView.java" timestamp="1460487581031" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="49" />
@@ -103,11 +104,11 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460476885797">
-        <mark key="[" line="433" column="47" />
-        <mark key="]" line="434" column="22" />
-        <mark key="." line="434" column="22" />
-        <mark key="^" line="448" column="31" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460487485261">
+        <mark key="[" line="435" column="25" />
+        <mark key="]" line="435" column="31" />
+        <mark key="." line="435" column="31" />
+        <mark key="^" line="435" column="31" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
         <mark key="[" line="93" column="23" />
@@ -247,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -259,31 +260,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQ29uZmVyZW5jZXNBcnRpY2xlRmVlZEl0ZW1WaWV3Q3JlYXRvciBleHRlbmRzIEZlZWRJdGVtVmlld0NyZWF0b3IgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBPYmplY3QgZ2V0Qm9keVRleHQoKSB7CiAgICAgICAgICAgIENvbmZlcmVuY2VzQXJ0aWNsZSBhcnRpY2xlID0gKENvbmZlcmVuY2VzQXJ0aWNsZSkgbW9kZWw7CiAgICAgICAgICAgIFN0cmluZyBibHVyYiA9IG1vZGVsLmFzKFByb21vdGFibGUuRGF0YS5jbGFzcykuZ2V0UHJvbW9CbHVyYigpOwogICAgICAgICAgICBTdHJpbmcgZGF0ZXNTdHJpbmcgPSBhcnRpY2xlLmdldERhdGVzU3RyaW5nKCk7CgogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHByZWZpeEJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBwcmVmaXhCdWlsZGVyLmFwcGVuZCghU3RyaW5nVXRpbHMuaXNCbGFuayhkYXRlc1N0cmluZykgPyBkYXRlc1N0cmluZyA6ICIiKQogICAgICAgICAgICAgICAgLmFwcGVuZCghU3RyaW5nVXRpbHMuaXNCbGFuayhhcnRpY2xlLmdldExvY2F0aW9uU3RyaW5nKCkpID8gIiwgIiA6ICIiKQogICAgICAgICAgICAgICAgLmFwcGVuZCghU3RyaW5nVXRpbHMuaXNCbGFuayhhcnRpY2xlLmdldExvY2F0aW9uU3RyaW5nKCkpID8gYXJ0aWNsZS5nZXRMb2NhdGlvblN0cmluZygpIDogIiIpOwoKICAgICAgICAgICAgcmV0dXJuICFTdHJpbmdVdGlscy5pc0JsYW5rKGJsdXJiKQogICAgICAgICAgICAgICAgPyBuZXcgSHRtbFZpZXcuQnVpbGRlcihyZXF1ZXN0KQogICAgICAgICAgICAgICAgLnRleHQoU3RyaW5nLmZvcm1hdCgiPGI+JXM8L2I+ICVzIiwgcHJlZml4QnVpbGRlci50b1N0cmluZygpLCBibHVyYikpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgOiBudWxsOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="1" type="4">
-        <text>g</text>
-      </register>
-      <register name="2" type="4">
-        <text>n</text>
-      </register>
-      <register name="3" type="4">
-        <text>i</text>
-      </register>
-      <register name="4" type="4">
         <text>r</text>
       </register>
+      <register name="2" type="4">
+        <text>o</text>
+      </register>
+      <register name="3" type="4">
+        <text>f</text>
+      </register>
+      <register name="4" type="4">
+        <text>.</text>
+      </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>g</text>
       </register>
       <register name="6" type="4">
-        <text>S</text>
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSk7Cg==</text>
+      <register name="8" type="4">
+        <text>r</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGl0bGUoIlRha2UgdGhlIFF1aXoiKQo=</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
