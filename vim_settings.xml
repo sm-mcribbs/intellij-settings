@@ -103,11 +103,11 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460429504339">
-        <mark key="[" line="418" column="0" />
-        <mark key="]" line="418" column="0" />
-        <mark key="^" line="422" column="22" />
-        <mark key="." line="418" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460434491259">
+        <mark key="[" line="442" column="73" />
+        <mark key="]" line="442" column="73" />
+        <mark key="." line="442" column="73" />
+        <mark key="^" line="442" column="73" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
         <mark key="[" line="93" column="23" />
@@ -127,6 +127,12 @@
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/brightspot-training/katkafe/src/main/java/com/project/Image.java" timestamp="1457981625704">
         <mark key="[" line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/FeedPageViewUtils.java" timestamp="1460431686606">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1460329922015">
         <mark key="'" line="225" column="24" />
         <mark key="[" line="46" column="0" />
@@ -139,11 +145,18 @@
         <mark key="]" line="155" column="42" />
         <mark key="." line="155" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/psddev/cms-db/3.2.5626-84d259/cms-db-3.2.5626-84d259.jar!/com/psddev/cms/db/ServletViewRequest.class" timestamp="1460431906753" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1460409185589">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedModuleViewCreator.java" timestamp="1460432519756">
+        <mark key="[" line="69" column="18" />
+        <mark key="]" line="71" column="63" />
+        <mark key="^" line="71" column="63" />
+        <mark key="." line="71" column="63" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/js/zerif.js" timestamp="1449239361455">
         <mark key="[" line="306" column="14" />
@@ -151,18 +164,18 @@
         <mark key="^" line="306" column="14" />
         <mark key="." line="306" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/ViewUtils.java" timestamp="1460428819196">
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="46" column="42" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="41" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/ViewUtils.java" timestamp="1460430694855">
+        <mark key="[" line="46" column="56" />
+        <mark key="]" line="46" column="61" />
+        <mark key="." line="46" column="61" />
+        <mark key="^" line="46" column="61" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3d68d764-bb1c-4bec-8f4b-bba62899e611/console.sql" timestamp="1458052440269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460428927527">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="42" />
         <mark key="." line="40" column="42" />
@@ -177,7 +190,7 @@
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-single.php" timestamp="1449415422252">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1460339519340">
+      <file name="/fragment.java" timestamp="1460432457499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" timestamp="1449336322864">
@@ -234,11 +247,11 @@
       <jump line="33" column="11" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>article</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -246,32 +259,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQ29uZmVyZW5jZXNBcnRpY2xlRmVlZEl0ZW1WaWV3Q3JlYXRvciBleHRlbmRzIEZlZWRJdGVtVmlld0NyZWF0b3IgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBPYmplY3QgZ2V0Qm9keVRleHQoKSB7CiAgICAgICAgICAgIENvbmZlcmVuY2VzQXJ0aWNsZSBhcnRpY2xlID0gKENvbmZlcmVuY2VzQXJ0aWNsZSkgbW9kZWw7CiAgICAgICAgICAgIFN0cmluZyBibHVyYiA9IG1vZGVsLmFzKFByb21vdGFibGUuRGF0YS5jbGFzcykuZ2V0UHJvbW9CbHVyYigpOwogICAgICAgICAgICBTdHJpbmcgZGF0ZXNTdHJpbmcgPSBhcnRpY2xlLmdldERhdGVzU3RyaW5nKCk7CgogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHByZWZpeEJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBwcmVmaXhCdWlsZGVyLmFwcGVuZCghU3RyaW5nVXRpbHMuaXNCbGFuayhkYXRlc1N0cmluZykgPyBkYXRlc1N0cmluZyA6ICIiKQogICAgICAgICAgICAgICAgLmFwcGVuZCghU3RyaW5nVXRpbHMuaXNCbGFuayhhcnRpY2xlLmdldExvY2F0aW9uU3RyaW5nKCkpID8gIiwgIiA6ICIiKQogICAgICAgICAgICAgICAgLmFwcGVuZCghU3RyaW5nVXRpbHMuaXNCbGFuayhhcnRpY2xlLmdldExvY2F0aW9uU3RyaW5nKCkpID8gYXJ0aWNsZS5nZXRMb2NhdGlvblN0cmluZygpIDogIiIpOwoKICAgICAgICAgICAgcmV0dXJuICFTdHJpbmdVdGlscy5pc0JsYW5rKGJsdXJiKQogICAgICAgICAgICAgICAgPyBuZXcgSHRtbFZpZXcuQnVpbGRlcihyZXF1ZXN0KQogICAgICAgICAgICAgICAgLnRleHQoU3RyaW5nLmZvcm1hdCgiPGI+JXM8L2I+ICVzIiwgcHJlZml4QnVpbGRlci50b1N0cmluZygpLCBibHVyYikpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgOiBudWxsOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50ZXh0KFN0cmluZy5mb3JtYXQoIjxiPiVzPC9iPiAlcyIsIHByZWZpeEJ1aWxkZXIudG9TdHJpbmcoKSwgYmx1cmIpKQo=</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogbnVsbDsK</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+      <register name="5" type="4">
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50ZXh0KFN0cmluZy5mb3JtYXQoIjxiPiVzPC9iPiAlcyIsIHByZWZpeEJ1aWxkZXIudG9TdHJpbmcoKSwgYmx1cmIpKQo=</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbmV3IEh0bWxWaWV3LkJ1aWxkZXIocmVxdWVzdCkK</text>
+      <register name="7" type="4">
+        <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICFTdHJpbmdVdGlscy5pc0JsYW5rKGJsdXJiKQo=</text>
+      <register name="8" type="4">
+        <text>b</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmQoIVN0cmluZ1V0aWxzLmlzQmxhbmsoYXJ0aWNsZS5nZXRMb2NhdGlvblN0cmluZygpKSA/IGFydGljbGUuZ2V0TG9jYXRpb25TdHJpbmcoKSA6ICIiKTsK</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
