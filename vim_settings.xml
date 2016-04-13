@@ -14,10 +14,6 @@
         <mark key="^" line="113" column="26" />
         <mark key="." line="113" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1460334815988">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="36" />
-      </file>
       <file name="/a.dummy" timestamp="1460427981372">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,6 +98,9 @@
         <mark key="]" line="23" column="32" />
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460517088343">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460515061038">
         <mark key="'" line="435" column="33" />
@@ -190,11 +189,11 @@
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-single.php" timestamp="1449415422252">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/main.js" timestamp="1460515597228">
-        <mark key="[" line="114" column="31" />
-        <mark key="]" line="114" column="32" />
-        <mark key="^" line="114" column="32" />
-        <mark key="." line="114" column="32" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/main.js" timestamp="1460517223518">
+        <mark key="[" line="114" column="7" />
+        <mark key="]" line="114" column="6" />
+        <mark key="." line="114" column="6" />
+        <mark key="^" line="114" column="6" />
       </file>
       <file name="/fragment.java" timestamp="1460470629737">
         <mark key="[" line="0" column="0" />
@@ -254,8 +253,8 @@
       <jump line="435" column="33" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRydW5jKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -266,32 +265,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB0ZXN0ID0gJCgnW2NsYXNzfD0iZGF0YVRydW5jYXRlIl0nKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRydW5jKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbHRpcDogZmFsc2UK</text>
       </register>
-      <register name="5" type="4">
-        <text>|</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3BsaXRPbjogIiAiLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2lkZTogInJpZ2h0IiwK</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXM6IDIsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>a</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGVzdC50cnVuazgoewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHRydW5jKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
