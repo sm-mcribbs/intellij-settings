@@ -102,6 +102,12 @@
       <file name="/Dummy.txt" timestamp="1460517924158">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1460520706127">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="31" column="74" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460519382196">
         <mark key="'" line="435" column="33" />
         <mark key="[" line="436" column="0" />
@@ -124,6 +130,7 @@
       <file name="/fragment.php" timestamp="1449243269896">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/ArticleViewCreator.java" timestamp="1460520591972" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/brightspot-training/katkafe/src/main/java/com/project/Image.java" timestamp="1457981625704">
         <mark key="[" line="7" column="19" />
       </file>
@@ -253,11 +260,11 @@
       <jump line="435" column="33" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -265,32 +272,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB0ZXN0ID0gJCgnW2NsYXNzfD0iZGF0YVRydW5jYXRlIl0nKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>this</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>this</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkRGlzcGxheU9wdGlvbnMoIm1vZGlmaWVyQ2xhc3MiLCAiZGF0YVRydW5jYXRlLTIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRlZ29yeShhcnRpY2xlQ2F0ZWdvcnkpCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name="6" type="4">
-        <text>=</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>$</text>
+        <text>b</text>
       </register>
       <register name="9" type="4">
-        <text>lines</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
