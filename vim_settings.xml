@@ -17,13 +17,6 @@
       <file name="/a.dummy" timestamp="1460427981372">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1460339744052">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/_cequiz-in-2col.json" timestamp="1460405250303">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="43" />
@@ -47,13 +40,6 @@
         <mark key="]" line="10" column="19" />
         <mark key="^" line="10" column="19" />
         <mark key="." line="30" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" timestamp="1449249270687">
-        <mark key="'" line="423" column="10" />
-        <mark key="[" line="419" column="31" />
-        <mark key="]" line="419" column="37" />
-        <mark key="^" line="419" column="37" />
-        <mark key="." line="419" column="37" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/template-tags.php" timestamp="1449416131982">
         <mark key="[" line="194" column="15" />
@@ -84,7 +70,9 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1460577017293" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1460578078896">
+        <mark key="[" line="35" column="53" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="49" />
@@ -106,12 +94,12 @@
         <mark key="^" line="31" column="74" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460519382196">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460578043636">
         <mark key="'" line="435" column="33" />
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="0" />
-        <mark key="." line="436" column="0" />
-        <mark key="^" line="437" column="70" />
+        <mark key="[" line="449" column="20" />
+        <mark key="]" line="449" column="20" />
+        <mark key="." line="449" column="20" />
+        <mark key="^" line="449" column="22" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
         <mark key="[" line="93" column="23" />
@@ -136,13 +124,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1460329922015">
-        <mark key="'" line="225" column="24" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="98" column="32" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/stream-status-widget.php" timestamp="1449331018689">
         <mark key="[" line="155" column="42" />
@@ -202,13 +183,6 @@
       <file name="/fragment.java" timestamp="1460470629737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" timestamp="1449336322864">
-        <mark key="'" line="50" column="41" />
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="45" />
-        <mark key="^" line="29" column="42" />
-        <mark key="." line="29" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.md" timestamp="1460407130477">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="15" />
@@ -257,44 +231,44 @@
       <jump line="435" column="33" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUb29sVWkuU3VnZ2VzdGVkTWF4aW11bSgxMDAuMCkK</text>
+      <register name="&quot;" type="4">
+        <text>itemBodyText</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>itemBodyText</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCB0ZXN0ID0gJCgnW2NsYXNzfD0iZGF0YVRydW5jYXRlIl0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUb29sVWkuU3VnZ2VzdGVkTWF4aW11bSgxMDAuMCkK</text>
+      <register name="1" type="4">
+        <text>itemBodyText</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>B</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRlZ29yeShhcnRpY2xlQ2F0ZWdvcnkpCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>null</text>
-      </register>
-      <register name="6" type="4">
-        <text>?</text>
-      </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
         <text>e</text>
       </register>
+      <register name="5" type="4">
+        <text>g</text>
+      </register>
+      <register name="6" type="4">
+        <text>B</text>
+      </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
