@@ -70,8 +70,11 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1460578078896">
-        <mark key="[" line="35" column="53" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1460580600907">
+        <mark key="[" line="37" column="43" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="51" />
+        <mark key="." line="37" column="43" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
@@ -232,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>itemBodyText</text>
+        <text>B</text>
       </register>
       <register name="-" type="4">
-        <text>itemBodyText</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -244,31 +247,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>itemBodyText</text>
+        <text>B</text>
       </register>
       <register name="2" type="4">
-        <text>B</text>
+        <text>u</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>B</text>
-      </register>
-      <register name="7" type="4">
-        <text>t</text>
-      </register>
-      <register name="8" type="4">
         <text>e</text>
       </register>
+      <register name="7" type="4">
+        <text>r</text>
+      </register>
+      <register name="8" type="4">
+        <text>(</text>
+      </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
