@@ -99,7 +99,7 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460517924158">
+      <file name="/Dummy.txt" timestamp="1460568982944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1460520706127">
@@ -222,11 +222,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1460428704758">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1460568973151">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="57" />
+        <mark key="." line="49" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -260,7 +260,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUb29sVWkuU3VnZ2VzdGVkTWF4aW11bSgxMDAuMCkK</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -272,34 +272,34 @@
         <text encoding="base64">ICAgIGxldCB0ZXN0ID0gJCgnW2NsYXNzfD0iZGF0YVRydW5jYXRlIl0nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUb29sVWkuU3VnZ2VzdGVkTWF4aW11bSgxMDAuMCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRlZ29yeShhcnRpY2xlQ2F0ZWdvcnkpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>null</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>?</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>e</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>l</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>b</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -337,9 +337,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set nu</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
