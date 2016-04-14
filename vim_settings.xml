@@ -70,11 +70,11 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1460594866062">
-        <mark key="[" line="45" column="54" />
-        <mark key="]" line="45" column="54" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1460596456273">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="39" />
         <mark key="^" line="45" column="51" />
-        <mark key="." line="45" column="54" />
+        <mark key="." line="45" column="39" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
@@ -97,11 +97,11 @@
         <mark key="^" line="31" column="74" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460594843547">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460596450553">
         <mark key="'" line="437" column="51" />
-        <mark key="[" line="437" column="54" />
-        <mark key="]" line="437" column="54" />
-        <mark key="." line="437" column="54" />
+        <mark key="[" line="437" column="39" />
+        <mark key="]" line="437" column="39" />
+        <mark key="." line="437" column="39" />
         <mark key="^" line="437" column="51" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
@@ -177,11 +177,11 @@
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-single.php" timestamp="1449415422252">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/main.js" timestamp="1460594897512">
-        <mark key="[" line="113" column="70" />
-        <mark key="]" line="113" column="71" />
-        <mark key="." line="113" column="71" />
-        <mark key="^" line="113" column="61" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/main.js" timestamp="1460596444894">
+        <mark key="[" line="113" column="56" />
+        <mark key="]" line="113" column="56" />
+        <mark key="." line="113" column="56" />
+        <mark key="^" line="113" column="56" />
       </file>
       <file name="/fragment.java" timestamp="1460470629737">
         <mark key="[" line="0" column="0" />
@@ -236,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -248,31 +248,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="2" type="4">
-        <text>class</text>
-      </register>
-      <register name="3" type="4">
         <text>-</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
-      </register>
-      <register name="5" type="4">
-        <text>t</text>
-      </register>
-      <register name="6" type="4">
+      <register name="2" type="4">
         <text>a</text>
       </register>
+      <register name="3" type="4">
+        <text>t</text>
+      </register>
+      <register name="4" type="4">
+        <text>a</text>
+      </register>
+      <register name="5" type="4">
+        <text>d</text>
+      </register>
+      <register name="6" type="4">
+        <text>-</text>
+      </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
