@@ -97,7 +97,7 @@
         <mark key="^" line="31" column="74" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460603056390">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460665315316">
         <mark key="'" line="437" column="51" />
         <mark key="[" line="437" column="39" />
         <mark key="]" line="437" column="39" />
@@ -177,7 +177,13 @@
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-single.php" timestamp="1449415422252">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1460664402098" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1460665571004">
+        <mark key="'" line="172" column="45" />
+        <mark key="[" line="158" column="61" />
+        <mark key="]" line="158" column="62" />
+        <mark key="." line="158" column="62" />
+        <mark key="^" line="172" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/main.js" timestamp="1460645431235">
         <mark key="[" line="116" column="27" />
         <mark key="]" line="116" column="30" />
@@ -234,13 +240,14 @@
       <jump line="33" column="11" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" />
       <jump line="435" column="33" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" />
       <jump line="437" column="51" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" />
+      <jump line="172" column="45" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1Cb2R5VGV4dCA9IGNvbnRlbnRQaW4uZ2V0Qmx1cmIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>blurb</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -248,32 +255,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>data</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1Cb2R5VGV4dCA9IGNvbnRlbnRQaW4uZ2V0Qmx1cmIoKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtQm9keVRleHQgPSBjb250ZW50UGluLmdldEJsdXJiKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoInRhcmdldCIsIGdldEl0ZW1MaW5rVGFyZ2V0KCkpCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>blurb</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>i</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogbnVsbCkK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>itemBodyText</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>?</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIT0gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
