@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/modules/AbstractContentPin.java" timestamp="1460752488707" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-single.php" timestamp="1449415422252">
         <mark key="[" line="29" column="13" />
       </file>
@@ -32,11 +33,6 @@
         <mark key="]" line="22" column="24" />
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/stream-status-widget.php" timestamp="1449331018689">
-        <mark key="[" line="155" column="42" />
-        <mark key="]" line="155" column="42" />
-        <mark key="." line="155" column="42" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/js/zerif.js" timestamp="1449239361455">
         <mark key="[" line="306" column="14" />
@@ -141,11 +137,6 @@
         <mark key="." line="116" column="30" />
         <mark key="^" line="116" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/slideshow.md" timestamp="1460342601867">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/footer.php" timestamp="1449249802272">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="29" />
@@ -164,22 +155,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/CollectionAjaxViewCreator.java" timestamp="1460734849253" />
-      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/sections/ribbon_with_bottom_button.php" timestamp="1449245708081">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/automatic-video-posts/class/curl.php" timestamp="1449261903629">
         <mark key="[" line="128" column="36" />
         <mark key="]" line="128" column="40" />
         <mark key="^" line="128" column="40" />
         <mark key="." line="128" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/LinkViewCreator.java" timestamp="1449587781539">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460665315316">
         <mark key="'" line="437" column="51" />
@@ -193,11 +173,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3d68d764-bb1c-4bec-8f4b-bba62899e611/console.sql" timestamp="1458052440269">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content.php" timestamp="1449416224581">
         <mark key="[" line="113" column="25" />
