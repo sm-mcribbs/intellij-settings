@@ -28,6 +28,12 @@
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1460726313609">
         <mark key="[" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460753751708">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+        <mark key="^" line="44" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" timestamp="1460339269130">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="24" />
@@ -223,7 +229,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1Cb2R5VGV4dCA9IGNvbnRlbnRQaW4uZ2V0Qmx1cmIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZXMgPSBWaWV3VXRpbHMuVFlQRV9DT05GRVJFTkNFU19BUlRJQ0xFX0ZFRURfSVRFTSkK</text>
       </register>
       <register name="-" type="4">
         <text>blurb</text>
@@ -235,31 +241,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1Cb2R5VGV4dCA9IGNvbnRlbnRQaW4uZ2V0Qmx1cmIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZXMgPSBWaWV3VXRpbHMuVFlQRV9DT05GRVJFTkNFU19BUlRJQ0xFX0ZFRURfSVRFTSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtQm9keVRleHQgPSBjb250ZW50UGluLmdldEJsdXJiKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1Cb2R5VGV4dCA9IGNvbnRlbnRQaW4uZ2V0Qmx1cmIoKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtQm9keVRleHQgPSBjb250ZW50UGluLmdldEJsdXJiKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoInRhcmdldCIsIGdldEl0ZW1MaW5rVGFyZ2V0KCkpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>blurb</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>i</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogbnVsbCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>itemBodyText</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>?</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIT0gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
