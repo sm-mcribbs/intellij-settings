@@ -100,13 +100,8 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461000663387">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1460669295256">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461002965058">
+        <mark key="[" line="52" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460772306789">
         <mark key="'" line="433" column="51" />
@@ -178,6 +173,7 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/SlideshowMainViewCreator.java" timestamp="1461003258451" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1460665571004">
         <mark key="'" line="172" column="45" />
         <mark key="[" line="158" column="61" />
