@@ -132,10 +132,10 @@
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/brightspot-training/katkafe/src/main/java/com/project/Image.java" timestamp="1457981625704">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461009713529">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461016124016">
+        <mark key="[" line="21" column="68" />
+        <mark key="]" line="21" column="68" />
+        <mark key="." line="21" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/FeedPageViewUtils.java" timestamp="1460431686606">
         <mark key="[" line="27" column="17" />
@@ -157,7 +157,7 @@
         <mark key="^" line="65" column="63" />
         <mark key="." line="65" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Slideshow.java" timestamp="1461004781419" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Slideshow.java" timestamp="1461016044193" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/js/zerif.js" timestamp="1449239361455">
         <mark key="[" line="306" column="14" />
         <mark key="]" line="306" column="14" />
@@ -186,7 +186,7 @@
         <mark key="." line="31" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/SlideshowMainViewCreator.java" timestamp="1461004572426" />
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/SlideshowGalleryViewCreator.java" timestamp="1461015172795" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/SlideshowGalleryViewCreator.java" timestamp="1461016106583" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1460665571004">
         <mark key="'" line="172" column="45" />
         <mark key="[" line="158" column="61" />
@@ -250,11 +250,11 @@
       <jump line="266" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Slideshow</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Slideshow</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -262,32 +262,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Slideshow</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTTElERV9JTUFHRV9TSVpFID0gInNsaWRlc2hvd19zbGlkZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LmFzc2V0cy50ZW1wbGF0ZXMuYmFzZS5jb21tb24uSHRtbFZpZXc7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTTElERV9JTUFHRV9TSVpFID0gInNsaWRlc2hvd19zbGlkZSI7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>/</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LmFzc2V0cy50ZW1wbGF0ZXMuYmFzZS5jb21tb24uSHRtbFZpZXc7Cg==</text>
       </register>
       <register name="5" type="4">
         <text>/</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>w</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
