@@ -100,8 +100,10 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1460998954376">
-        <mark key="[" line="44" column="54" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461000663387">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1460669295256">
         <mark key="[" line="0" column="0" />
@@ -240,7 +242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2hhcmViYXIK</text>
+        <text encoding="base64">bmV3IFNsaWQK</text>
       </register>
       <register name="-" type="4">
         <text>O</text>
@@ -252,31 +254,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2hhcmViYXIK</text>
+        <text encoding="base64">bmV3IFNsaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChmaXJzdFNsaWRlICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQ0VxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2hhcmViYXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB0b3RhbFNsaWRlQ291bnQgPSBtb2RlbC5nZXRTbGlkZXMoKSAhPSBudWxsID8gU3RyaW5nLnZhbHVlT2YobW9kZWwuZ2V0U2xpZGVzKCkuc2l6ZSgpKSA6ICIiOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChmaXJzdFNsaWRlICE9IG51bGwpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENFUXVpei5DRVF1aXpRdWVzdGlvbiBmaXJzdFF1ZXN0aW9uID0gbW9kZWwuZ2V0UXVlc3Rpb25zKCkuc3RyZWFtKCkuZmluZEZpcnN0KCkub3JFbHNlKG51bGwpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Ly8K</text>
       </register>
-      <register name="7" type="4">
-        <text>O</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB0b3RhbFNsaWRlQ291bnQgPSBtb2RlbC5nZXRTbGlkZXMoKSAhPSBudWxsID8gU3RyaW5nLnZhbHVlT2YobW9kZWwuZ2V0U2xpZGVzKCkuc2l6ZSgpKSA6ICIiOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIENFUXVpei5DRVF1aXpRdWVzdGlvbiBmaXJzdFF1ZXN0aW9uID0gbW9kZWwuZ2V0UXVlc3Rpb25zKCkuc3RyZWFtKCkuZmluZEZpcnN0KCkub3JFbHNlKG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>O</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
