@@ -31,6 +31,28 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*BUILD SUCCESS.*" />
+                      <option name="id" value="7c43ea26-c2ae-4787-9263-a3e903d6dfd3" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10637948" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-2895164" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="b08ee181-4538-4373-a8c6-4da76db0b0ea" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*BUILD FAILURE.*" />
                       <option name="id" value="17bfe11e-1040-4eac-836d-ffa7355068b0" />
                       <option name="style">
