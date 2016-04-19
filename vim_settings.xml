@@ -89,12 +89,13 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1461099799620">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="50" column="94" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1461103996159">
+        <mark key="[" line="161" column="54" />
+        <mark key="]" line="161" column="62" />
+        <mark key="." line="161" column="62" />
+        <mark key="^" line="161" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/target/generated-sources/styleguide/com/sourcemedia/view/assets/templates/base/common/LinkView.java" timestamp="1461103768007" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="49" />
@@ -221,7 +222,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1461007938798">
+      <file name="/fragment.java" timestamp="1461103928706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461007859953">
@@ -270,10 +271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZERpc3BsYXlPcHRpb25zKCJpc0J1dHRvbiIsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXRlbVVSTCA9IFNpdGVVdGlscy5nZXRQZXJtYWxpbmtGb3JTaXRlKGNvbnRlbnQsIFZpZXdVdGlscy5nZXRTaXRlKHJlcXVlc3QpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -282,31 +283,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICJfdGVtcGxhdGUiOiAiL2Fzc2V0cy90ZW1wbGF0ZXMvYmFzZS9jb21tb24vdGV4dCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZERpc3BsYXlPcHRpb25zKCJpc0J1dHRvbiIsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXRlbVVSTCA9IFNpdGVVdGlscy5nZXRQZXJtYWxpbmtGb3JTaXRlKGNvbnRlbnQsIFZpZXdVdGlscy5nZXRTaXRlKHJlcXVlc3QpKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>model</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text>+</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>u</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
