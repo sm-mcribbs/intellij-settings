@@ -144,10 +144,11 @@
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/brightspot-training/katkafe/src/main/java/com/project/Image.java" timestamp="1457981625704">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461089724410">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461091856119">
+        <mark key="[" line="60" column="65" />
+        <mark key="]" line="60" column="65" />
+        <mark key="." line="60" column="65" />
+        <mark key="^" line="60" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/FeedPageViewUtils.java" timestamp="1460431686606">
         <mark key="[" line="27" column="17" />
@@ -269,11 +270,11 @@
       <jump line="2" column="4" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/answer.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -281,32 +282,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJfdGVtcGxhdGUiOiAiL2Fzc2V0cy90ZW1wbGF0ZXMvYmFzZS9jb21tb24vdGV4dCIsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cwo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWxhdGVkQXJ0aWNsZShxdWVzdGlvbi5nZXRSZWxhdGVkQ29udGVudCgpKSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7I2lmIGRpc3BsYXlPcHRpb25zLm1vZGlmaWVyQ2xhc3N9fSBjbGFzcz0iZ2FsbGVyeS1mdWxsLWNvbXBvbmVudCB7e2Rpc3BsYXlPcHRpb25zLm1vZGlmaWVyQ2xhc3N9fSJ7ey9pZn19Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVsYXRlZEFydGljbGUocXVlc3Rpb24uZ2V0UmVsYXRlZENvbnRlbnQoKSkpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHt7I2lmIGRpc3BsYXlPcHRpb25zLm1vZGlmaWVyQ2xhc3N9fSBjbGFzcz0iZ2FsbGVyeS1mdWxsLWNvbXBvbmVudCB7e2Rpc3BsYXlPcHRpb25zLm1vZGlmaWVyQ2xhc3N9fSJ7ey9pZn19Pgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>Collection</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>A</text>
+      </register>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
