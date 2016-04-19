@@ -70,6 +70,12 @@
         <mark key="^" line="46" column="84" />
         <mark key="." line="46" column="84" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461088728312">
+        <mark key="[" line="20" column="135" />
+        <mark key="]" line="20" column="139" />
+        <mark key="^" line="20" column="139" />
+        <mark key="." line="20" column="139" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/extend/class-templates.php" timestamp="1449330003970">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="13" />
@@ -145,6 +151,12 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461088566973">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedModuleViewCreator.java" timestamp="1460432519756">
         <mark key="[" line="63" column="18" />
         <mark key="]" line="65" column="63" />
@@ -163,7 +175,7 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/slideshow/slideshow.json" timestamp="1461086200083" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/slideshow/slideshow.json" timestamp="1461087642284" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="42" />
@@ -245,43 +257,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7dGhpcy5hbnN3ZXIudGV4dH19Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvbW90YWJsZSBjb250ZW50ID0gY29udGVudFBpbi5nZXRDb250ZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJfdGVtcGxhdGUiOiAiL2Fzc2V0cy90ZW1wbGF0ZXMvYmFzZS9jb21tb24vdGV4dCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7dGhpcy5hbnN3ZXIudGV4dH19Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY29ycmVjdCI6IGZhbHNlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAie3t3b3Jkcyg2KX19IiwK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiX3JlcGVhdCI6IDQsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
