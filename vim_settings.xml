@@ -89,11 +89,11 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1461099149589">
-        <mark key="[" line="162" column="63" />
-        <mark key="]" line="162" column="63" />
-        <mark key="^" line="162" column="74" />
-        <mark key="." line="162" column="63" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1461099799620">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="50" column="94" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
@@ -116,7 +116,7 @@
         <mark key="^" line="68" column="51" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461097517020">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461099651160">
         <mark key="'" line="433" column="51" />
         <mark key="[" line="327" column="9" />
         <mark key="]" line="433" column="39" />
@@ -148,6 +148,7 @@
         <mark key="^" line="66" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/slideshow/slide.hbs" timestamp="1461097247694" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/templates/base/common/link.hbs" timestamp="1461099596127" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/FeedPageViewUtils.java" timestamp="1460431686606">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="31" column="0" />
@@ -268,11 +269,11 @@
       <jump line="2" column="4" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/answer.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZERpc3BsYXlPcHRpb25zKCJpc0J1dHRvbiIsIHRydWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -280,32 +281,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJfdGVtcGxhdGUiOiAiL2Fzc2V0cy90ZW1wbGF0ZXMvYmFzZS9jb21tb24vdGV4dCIsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZERpc3BsYXlPcHRpb25zKCJpc0J1dHRvbiIsIHRydWUpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>model</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
         <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>u</text>
       </register>
       <register name="6" type="4">
-        <text>T</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>m</text>
-      </register>
-      <register name="8" type="4">
         <text>e</text>
       </register>
+      <register name="8" type="4">
+        <text>g</text>
+      </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
