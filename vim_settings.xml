@@ -70,11 +70,11 @@
         <mark key="^" line="46" column="84" />
         <mark key="." line="46" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461088728312">
-        <mark key="[" line="20" column="135" />
-        <mark key="]" line="20" column="139" />
-        <mark key="^" line="20" column="139" />
-        <mark key="." line="20" column="139" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461089890168">
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/extend/class-templates.php" timestamp="1449330003970">
         <mark key="[" line="29" column="12" />
@@ -114,6 +114,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="68" column="51" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461089799085">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1460772306789">
         <mark key="'" line="433" column="51" />
