@@ -57,6 +57,9 @@
         <mark key="^" line="26" column="86" />
         <mark key="." line="26" column="86" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/userAccount/login.hbs" timestamp="1461172094891">
+        <mark key="[" line="0" column="74" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="10" column="19" />
@@ -174,6 +177,7 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461171718890" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="42" />
@@ -190,6 +194,12 @@
         <mark key="]" line="31" column="29" />
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/userAccount/login.json" timestamp="1461171933436">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1461169195606">
         <mark key="[" line="176" column="60" />
@@ -264,10 +274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -276,31 +286,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFZJRVdfVFlQRV9IRVJPID0gImNlcXVpekhlcm8iOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
