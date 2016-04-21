@@ -63,10 +63,10 @@
         <mark key="^" line="26" column="86" />
         <mark key="." line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/userAccount/login.hbs" timestamp="1461203474117">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/userAccount/login.hbs" timestamp="1461205013414">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
         <mark key="[" line="30" column="12" />
@@ -78,11 +78,11 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461203697213">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461204979009">
+        <mark key="[" line="118" column="5" />
+        <mark key="]" line="121" column="48" />
+        <mark key="." line="121" column="48" />
+        <mark key="^" line="121" column="48" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/template-tags.php" timestamp="1449416131982">
         <mark key="[" line="194" column="15" />
@@ -292,8 +292,8 @@
       <jump line="317" column="60" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>message</text>
@@ -304,32 +304,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUb29sVWkuUGxhY2Vob2xkZXIoZHluYW1pY1RleHQgPSAiJHtjb250ZW50LnJlZ2lzdGVyTGFiZWxQbGFjZWhvbGRlcn0iLCBlZGl0YWJsZSA9IHRydWUpCiAgICBwcml2YXRlIFN0cmluZyByZWdpc3RlckxhYmVsOwoK</text>
       </register>
-      <register name="1" type="4">
-        <text>message</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>banner</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxwLz4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHt7YmFubmVyfX0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHg7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>message</text>
       </register>
       <register name="6" type="4">
+        <text>banner</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvYmFubmVyPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxiYW5uZXI+Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
