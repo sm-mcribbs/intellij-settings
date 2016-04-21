@@ -74,10 +74,6 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/CollectionPageViewCreator.java" timestamp="1461128763089">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="65" />
-      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461215324796">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -130,11 +126,11 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461215360329">
-        <mark key="[" line="89" column="20" />
-        <mark key="]" line="89" column="20" />
-        <mark key="." line="89" column="20" />
-        <mark key="^" line="87" column="19" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461273045093">
+        <mark key="[" line="65" column="66" />
+        <mark key="]" line="65" column="70" />
+        <mark key="." line="65" column="70" />
+        <mark key="^" line="65" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461168714163">
         <mark key="'" line="435" column="51" />
@@ -186,7 +182,7 @@
         <mark key="^" line="306" column="14" />
         <mark key="." line="306" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/ViewUtils.java" timestamp="1461005926260">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/ViewUtils.java" timestamp="1461272980104">
         <mark key="[" line="46" column="56" />
         <mark key="]" line="46" column="61" />
         <mark key="." line="46" column="61" />
@@ -293,11 +289,11 @@
       <jump line="317" column="60" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wbject</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>wbject</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -305,32 +301,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>wbject</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">VE9ETwo=</text>
+      <register name="2" type="4">
+        <text>o</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">KiBPbiBQQUdFOiBmaWd1cmUgb3V0IGhvdyB0byBkbyBNb3JlIFF1aXplcyBpbiBzaWRlYmFyCg==</text>
+      <register name="3" type="4">
+        <text>q</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">KiBGaWd1cmUgb3V0IGhvdyB0byBoYW5kbGUgc3VibWl0IG9mIGNvcnJlY3QgcmVzdWx0cwo=</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bgo=</text>
+      <register name="5" type="4">
+        <text>R</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>w</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
