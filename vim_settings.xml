@@ -179,6 +179,7 @@
         <mark key="^" line="65" column="63" />
         <mark key="." line="65" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Slideshow.java" timestamp="1461260044786" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/js/zerif.js" timestamp="1449239361455">
         <mark key="[" line="306" column="14" />
         <mark key="]" line="306" column="14" />
@@ -246,11 +247,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461258208773">
-        <mark key="[" line="136" column="120" />
-        <mark key="]" line="136" column="120" />
-        <mark key="." line="136" column="120" />
-        <mark key="^" line="136" column="120" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461260227241">
+        <mark key="[" line="227" column="95" />
+        <mark key="]" line="227" column="96" />
+        <mark key="." line="227" column="96" />
+        <mark key="^" line="227" column="127" />
       </file>
     </filemarks>
     <jumps>
@@ -292,11 +293,11 @@
       <jump line="317" column="60" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FIELD_SUBJECTS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="-" type="4">
-        <text>FIELD_SUBJECTS</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -304,32 +305,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>FIELD_SUBJECTS</text>
+      <register name="1" type="2">
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>n</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>}</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>q</text>
-      </register>
-      <register name="8" type="4">
         <text>e</text>
       </register>
+      <register name="8" type="4">
+        <text>t</text>
+      </register>
       <register name="9" type="4">
-        <text>R</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
