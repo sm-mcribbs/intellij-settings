@@ -28,9 +28,6 @@
         <mark key="." line="308" column="0" />
         <mark key="^" line="316" column="62" />
       </file>
-      <file name="/a.dummy" timestamp="1461209096884">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Login.java" timestamp="1461202263366">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -82,11 +79,11 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461207801540">
-        <mark key="[" line="122" column="45" />
-        <mark key="]" line="123" column="17" />
-        <mark key="." line="123" column="17" />
-        <mark key="^" line="123" column="17" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461213355003">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/template-tags.php" timestamp="1449416131982">
         <mark key="[" line="194" column="15" />
@@ -135,12 +132,13 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461211031513">
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="21" />
-        <mark key="." line="68" column="21" />
-        <mark key="^" line="85" column="77" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461213714814">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="86" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/templates/base/common/html.hbs" timestamp="1461211850140" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461168714163">
         <mark key="'" line="435" column="51" />
         <mark key="[" line="98" column="85" />
@@ -196,7 +194,7 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461203610658">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461211673754">
         <mark key="[" line="80" column="56" />
         <mark key="]" line="80" column="61" />
         <mark key="." line="80" column="61" />
@@ -298,10 +296,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXV0aFZpZXdVdGlscy5nZXRGdWxseVF1YWxpZmllZFNlY3VyZVVybChWaWV3VXRpbHMuZ2V0U2l0ZShyZXF1ZXN0KSwgTG9naW4uRElSRUNUT1JZX1BBVEgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LmFzc2V0cy50ZW1wbGF0ZXMuYmFzZS5jb21tb24uVGV4dFZpZXc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -310,31 +308,31 @@
         <text encoding="base64">ICAgIEBUb29sVWkuUGxhY2Vob2xkZXIoZHluYW1pY1RleHQgPSAiJHtjb250ZW50LnJlZ2lzdGVyTGFiZWxQbGFjZWhvbGRlcn0iLCBlZGl0YWJsZSA9IHRydWUpCiAgICBwcml2YXRlIFN0cmluZyByZWdpc3RlckxhYmVsOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXV0aFZpZXdVdGlscy5nZXRGdWxseVF1YWxpZmllZFNlY3VyZVVybChWaWV3VXRpbHMuZ2V0U2l0ZShyZXF1ZXN0KSwgTG9naW4uRElSRUNUT1JZX1BBVEgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LmFzc2V0cy50ZW1wbGF0ZXMuYmFzZS5jb21tb24uVGV4dFZpZXc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LmFzc2V0cy50ZW1wbGF0ZXMuYmFzZS5jb21tb24uSHRtbFZpZXc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNvbnRlbnQobW9kZWwuZ2V0U3RhcnRCdXR0b24oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZEV4dHJhQXR0cmlidXRlcygiY2xhc3MiLCAieHhzdGFydC1jZXF1aXoiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGV4dCgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnV0dG9uVmlldyhuZXcgQnV0dG9uVmlldy5CdWlsZGVyKHJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkRGlzcGxheU9wdGlvbnMoIm1vZGlmaWVyQ2xhc3MiLCAiY2VxdWl6LWJ1dHRvbi13cmFwcGVyIikK</text>
       </register>
-      <register name="6" type="4">
-        <text>n</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgSHRtbFZpZXcuQnVpbGRlcihyZXF1ZXN0KQo=</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGV4dCgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
