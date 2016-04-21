@@ -63,8 +63,10 @@
         <mark key="^" line="26" column="86" />
         <mark key="." line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/userAccount/login.hbs" timestamp="1461172094891">
-        <mark key="[" line="0" column="74" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/userAccount/login.hbs" timestamp="1461203474117">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
         <mark key="[" line="30" column="12" />
@@ -75,6 +77,12 @@
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/CollectionPageViewCreator.java" timestamp="1461128763089">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461203697213">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/template-tags.php" timestamp="1449416131982">
         <mark key="[" line="194" column="15" />
@@ -183,11 +191,11 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461202287948">
-        <mark key="[" line="79" column="28" />
-        <mark key="]" line="79" column="29" />
-        <mark key="." line="79" column="29" />
-        <mark key="^" line="79" column="27" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461203610658">
+        <mark key="[" line="80" column="56" />
+        <mark key="]" line="80" column="61" />
+        <mark key="." line="80" column="61" />
+        <mark key="^" line="80" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
@@ -284,11 +292,11 @@
       <jump line="317" column="60" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text>REGISTER_PREFIX</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -296,29 +304,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUb29sVWkuUGxhY2Vob2xkZXIoZHluYW1pY1RleHQgPSAiJHtjb250ZW50LnJlZ2lzdGVyTGFiZWxQbGFjZWhvbGRlcn0iLCBlZGl0YWJsZSA9IHRydWUpCiAgICBwcml2YXRlIFN0cmluZyByZWdpc3RlckxhYmVsOwoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>message</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>banner</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gREVGX1JFR0lTVEVSX0xBQkVMOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmVnaXN0ZXJMYWJlbFBsYWNlaG9sZGVyKCkgewo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>REGISTER_PREFIX</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>RegisterPrefixTextPlaceholder</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>registerLabel</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwvYmFubmVyPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>registerLabelPlaceholder</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxiYW5uZXI+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
