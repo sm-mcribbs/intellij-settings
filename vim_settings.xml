@@ -27,6 +27,12 @@
         <mark key="." line="308" column="0" />
         <mark key="^" line="316" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Login.java" timestamp="1461202263366">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="113" column="31" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/_cequiz-in-2col.json" timestamp="1460405250303">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="43" />
@@ -177,7 +183,12 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461175929561" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461202287948">
+        <mark key="[" line="79" column="28" />
+        <mark key="]" line="79" column="29" />
+        <mark key="." line="79" column="29" />
+        <mark key="^" line="79" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="42" />
@@ -195,7 +206,7 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/userAccount/login.json" timestamp="1461171933436">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/userAccount/login.json" timestamp="1461202148585">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="^" line="7" column="5" />
@@ -273,44 +284,44 @@
       <jump line="317" column="60" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>REGISTER_PREFIX</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFZJRVdfVFlQRV9IRVJPID0gImNlcXVpekhlcm8iOwo=</text>
+        <text encoding="base64">ICAgIEBUb29sVWkuUGxhY2Vob2xkZXIoZHluYW1pY1RleHQgPSAiJHtjb250ZW50LnJlZ2lzdGVyTGFiZWxQbGFjZWhvbGRlcn0iLCBlZGl0YWJsZSA9IHRydWUpCiAgICBwcml2YXRlIFN0cmluZyByZWdpc3RlckxhYmVsOwoK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gREVGX1JFR0lTVEVSX0xBQkVMOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmVnaXN0ZXJMYWJlbFBsYWNlaG9sZGVyKCkgewo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>REGISTER_PREFIX</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RegisterPrefixTextPlaceholder</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>registerLabel</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>registerLabelPlaceholder</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
