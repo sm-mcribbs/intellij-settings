@@ -92,10 +92,9 @@
         <mark key="." line="46" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461350719113">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/plugins/live-stream-badger/extend/class-templates.php" timestamp="1449330003970">
         <mark key="[" line="29" column="12" />
@@ -128,10 +127,9 @@
         <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461349443095">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="93" column="8" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461168714163">
         <mark key="'" line="435" column="51" />
@@ -246,11 +244,6 @@
         <mark key="]" line="15" column="44" />
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461359892337">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
