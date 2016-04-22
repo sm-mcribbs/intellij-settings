@@ -126,11 +126,11 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461346140206">
-        <mark key="[" line="65" column="70" />
-        <mark key="]" line="65" column="70" />
-        <mark key="." line="65" column="70" />
-        <mark key="^" line="65" column="70" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461349443095">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="93" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461168714163">
         <mark key="'" line="435" column="51" />
@@ -241,12 +241,6 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461273636326">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="128" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="1104" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
@@ -287,8 +281,8 @@
       <jump line="317" column="60" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
@@ -299,32 +293,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>this</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LmJhc2UudXRpbC5MaW5rVmlldzsK</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
-      <register name="4" type="4">
-        <text>h</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>a</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>l</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC50b1N0cmluZygpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>b</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5hcHBlbmQoIjxicj48YnI+IikK</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5hcHBlbmQoIjwvZGl2PiIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5hcHBlbmQoIjwvc2VjdGlvbj4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
