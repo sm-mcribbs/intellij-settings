@@ -183,11 +183,10 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461701026941">
-        <mark key="[" line="70" column="48" />
-        <mark key="]" line="70" column="50" />
-        <mark key="." line="70" column="50" />
-        <mark key="^" line="70" column="50" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461702894504">
+        <mark key="[" line="69" column="55" />
+        <mark key="]" line="69" column="55" />
+        <mark key="." line="69" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1461691002488">
         <mark key="[" line="0" column="0" />
@@ -304,11 +303,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz-latest-enhancement.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LnNldFNwZWNpYWxQcm9ncmFtcygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -316,32 +315,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDRVF1aXogcXVpeiA9IFF1ZXJ5LmZpbmRVbmlxdWUoQ0VRdWl6LmNsYXNzLCAiX2lkIiwgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInF1aXpfaWQiKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LnNldFNwZWNpYWxQcm9ncmFtcygpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
-      </register>
-      <register name="3" type="4">
-        <text>)</text>
-      </register>
-      <register name="4" type="4">
-        <text>(</text>
-      </register>
-      <register name="5" type="4">
         <text>m</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text>a</text>
+      </register>
+      <register name="4" type="4">
+        <text>r</text>
+      </register>
+      <register name="5" type="4">
+        <text>g</text>
+      </register>
+      <register name="6" type="4">
+        <text>o</text>
       </register>
       <register name="7" type="4">
         <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>P</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
