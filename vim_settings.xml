@@ -77,10 +77,10 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461215324796">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/styles/components/cequiz.less" timestamp="1461688752510">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/template-tags.php" timestamp="1449416131982">
         <mark key="[" line="194" column="15" />
@@ -129,10 +129,11 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461622583235">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1461687904930">
+        <mark key="[" line="85" column="142" />
+        <mark key="]" line="85" column="118" />
+        <mark key="^" line="85" column="118" />
+        <mark key="." line="85" column="118" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461168714163">
         <mark key="'" line="435" column="51" />
@@ -177,11 +178,11 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461216480370">
-        <mark key="[" line="80" column="56" />
-        <mark key="]" line="80" column="61" />
-        <mark key="." line="80" column="61" />
-        <mark key="^" line="80" column="61" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461688086505">
+        <mark key="[" line="79" column="96" />
+        <mark key="]" line="79" column="96" />
+        <mark key="." line="79" column="96" />
+        <mark key="^" line="79" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/ResetPasswordViewCreator.java" timestamp="1461626415065">
         <mark key="[" line="63" column="0" />
@@ -247,6 +248,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461687885693">
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="40" column="68" />
+        <mark key="^" line="40" column="68" />
+        <mark key="." line="40" column="68" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1104" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
@@ -288,11 +295,11 @@
       <jump line="56" column="56" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -300,32 +307,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2FyZElEKG5ldyBUZXh0Vmlldy5CdWlsZGVyKHJlcXVlc3QpLnRleHQodXNlci5nZXRDZnBCb2FyZElkKCkpLmJ1aWxkKCkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>c</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pY21hSUQodXNlci5nZXRJbWNhSWQoKSkK</text>
-      </register>
-      <register name="3" type="4">
-        <text>CfpBoardId</text>
-      </register>
-      <register name="4" type="4">
-        <text>c</text>
-      </register>
-      <register name="5" type="4">
-        <text>boardID</text>
-      </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="7" type="4">
+      <register name="2" type="4">
         <text>.</text>
       </register>
+      <register name="3" type="4">
+        <text>)</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text>e</text>
+      </register>
+      <register name="7" type="4">
+        <text>u</text>
+      </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,8 +373,8 @@
         <entry>q</entry>
         <entry>set nu</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
