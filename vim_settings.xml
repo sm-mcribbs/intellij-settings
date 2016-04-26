@@ -174,11 +174,11 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461630712065">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461639855425">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedModuleViewCreator.java" timestamp="1460432519756">
         <mark key="[" line="63" column="18" />
@@ -315,11 +315,11 @@
       <jump line="56" column="56" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pY21hSUQodXNlci5nZXRJbWNhSWQoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>CfpBoardId</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -327,32 +327,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2FyZElEKG5ldyBUZXh0Vmlldy5CdWlsZGVyKHJlcXVlc3QpLnRleHQodXNlci5nZXRDZnBCb2FyZElkKCkpLmJ1aWxkKCkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pY21hSUQodXNlci5nZXRJbWNhSWQoKSkK</text>
-      </register>
-      <register name="2" type="4">
-        <text>CfpBoardId</text>
-      </register>
-      <register name="3" type="4">
+      <register name="1" type="4">
         <text>c</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pY21hSUQodXNlci5nZXRJbWNhSWQoKSkK</text>
+      </register>
+      <register name="3" type="4">
+        <text>CfpBoardId</text>
+      </register>
       <register name="4" type="4">
-        <text>boardID</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>boardID</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
