@@ -214,11 +214,11 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461635405781">
-        <mark key="[" line="8" column="58" />
-        <mark key="]" line="8" column="62" />
-        <mark key="." line="8" column="62" />
-        <mark key="^" line="8" column="62" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461636978960">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="5" column="63" />
+        <mark key="." line="5" column="63" />
+        <mark key="^" line="8" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/FeedPageViewCreator.java" timestamp="1461164412339">
         <mark key="[" line="258" column="0" />
@@ -316,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -328,31 +328,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IFVzZXIuZ2V0VXNlckJ5SWQocmVxdWVzdC5nZXRVc2VySWQoKSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>I</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>B</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
