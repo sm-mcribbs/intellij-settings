@@ -214,11 +214,11 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461631629587">
-        <mark key="[" line="8" column="67" />
-        <mark key="]" line="8" column="68" />
-        <mark key="." line="8" column="68" />
-        <mark key="^" line="8" column="68" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461635405781">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/FeedPageViewCreator.java" timestamp="1461164412339">
         <mark key="[" line="258" column="0" />
@@ -315,11 +315,11 @@
       <jump line="56" column="56" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -327,32 +327,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IFVzZXIuZ2V0VXNlckJ5SWQocmVxdWVzdC5nZXRVc2VySWQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+      <register name="2" type="4">
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>D</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>I</text>
       </register>
       <register name="5" type="4">
-        <text>h</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
