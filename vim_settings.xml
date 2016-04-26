@@ -162,11 +162,11 @@
         <mark key="^" line="128" column="40" />
         <mark key="." line="128" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461636447729">
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="66" />
-        <mark key="." line="48" column="66" />
-        <mark key="^" line="48" column="66" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461638442643">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/FeedPageViewUtils.java" timestamp="1461106882170">
         <mark key="[" line="27" column="17" />
@@ -214,11 +214,11 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461636978960">
-        <mark key="[" line="5" column="63" />
-        <mark key="]" line="5" column="63" />
-        <mark key="." line="5" column="63" />
-        <mark key="^" line="8" column="57" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461638419979">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+        <mark key="^" line="8" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/FeedPageViewCreator.java" timestamp="1461164412339">
         <mark key="[" line="258" column="0" />
@@ -315,32 +315,32 @@
       <jump line="56" column="56" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pY21hSUQodXNlci5nZXRJbWNhSWQoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>CfpBoardId</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IFVzZXIuZ2V0VXNlckJ5SWQocmVxdWVzdC5nZXRVc2VySWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2FyZElEKG5ldyBUZXh0Vmlldy5CdWlsZGVyKHJlcXVlc3QpLnRleHQodXNlci5nZXRDZnBCb2FyZElkKCkpLmJ1aWxkKCkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pY21hSUQodXNlci5nZXRJbWNhSWQoKSkK</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>CfpBoardId</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>c</text>
       </register>
       <register name="4" type="4">
-        <text>h</text>
+        <text>boardID</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
         <text>.</text>
