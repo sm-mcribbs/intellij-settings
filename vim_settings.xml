@@ -115,6 +115,11 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/plugins/cequiz.js" timestamp="1461630581457">
+        <mark key="[" line="26" column="136" />
+        <mark key="]" line="26" column="137" />
+        <mark key="." line="26" column="137" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1461103996159">
         <mark key="[" line="161" column="54" />
         <mark key="]" line="161" column="62" />
@@ -169,7 +174,12 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461622573282" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461630712065">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedModuleViewCreator.java" timestamp="1460432519756">
         <mark key="[" line="63" column="18" />
         <mark key="]" line="65" column="63" />
@@ -204,10 +214,11 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461350734808">
-        <mark key="[" line="8" column="58" />
-        <mark key="]" line="8" column="58" />
-        <mark key="." line="8" column="58" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461630689281">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="64" />
+        <mark key="^" line="5" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/pages/FeedPageViewCreator.java" timestamp="1461164412339">
         <mark key="[" line="258" column="0" />
