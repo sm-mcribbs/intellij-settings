@@ -21,7 +21,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Commentable.java" timestamp="1461647976445" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Commentable.java" timestamp="1461649185066" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/_cequiz-in-2col.json" timestamp="1460405250303">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="43" />
@@ -103,10 +103,10 @@
         <mark key="." line="128" column="45" />
         <mark key="^" line="128" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461647015257">
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="24" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461650058800">
+        <mark key="]" line="59" column="23" />
+        <mark key="." line="59" column="23" />
+        <mark key="^" line="59" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1461636611169">
         <mark key="'" line="59" column="56" />
@@ -193,11 +193,11 @@
         <mark key="^" line="93" column="31" />
         <mark key="." line="93" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461648995392">
-        <mark key="[" line="258" column="8" />
-        <mark key="]" line="258" column="8" />
-        <mark key="." line="258" column="8" />
-        <mark key="^" line="255" column="52" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461649247185">
+        <mark key="[" line="144" column="24" />
+        <mark key="]" line="144" column="24" />
+        <mark key="." line="144" column="24" />
+        <mark key="^" line="144" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/ViewUtils.java" timestamp="1461272980104">
         <mark key="[" line="46" column="56" />
@@ -245,6 +245,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="30" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/plugins/cequiz.js" timestamp="1461650689070">
+        <mark key="[" line="35" column="83" />
+        <mark key="]" line="35" column="89" />
+        <mark key="." line="35" column="89" />
+        <mark key="^" line="35" column="89" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/User.java" timestamp="1461648183768">
         <mark key="[" line="379" column="0" />
         <mark key="]" line="379" column="55" />
@@ -277,10 +283,17 @@
         <mark key="." line="8" column="60" />
         <mark key="^" line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461645028842">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461649462529">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461649469596">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/userAccount/login.hbs" timestamp="1461205013414">
         <mark key="[" line="2" column="0" />
@@ -349,43 +362,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;&quot;});</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;&quot;});</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUXVlcnkuZmluZFVuaXF1ZShVc2VyLmNsYXNzLCAiX2lkIiwgaWQpOwo=</text>
+        <text encoding="base64">CXZhcglmYWlsdXJlUmF0ZSA9ICQoJy5qcy1udW1iZXJ0b3Bhc3MnKS5odG1sKCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;&quot;});</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>imcaId</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cfpId</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data</text>
       </register>
       <register name="5" type="4">
-        <text>{</text>
+        <text>&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>ajax</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>failureRate</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>numbertopass</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>numbertopass</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
