@@ -9,7 +9,7 @@
         <mark key="^" line="83" column="50" />
         <mark key="." line="83" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1461704950849">
+      <file name="/a.dummy" timestamp="1461785906070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Login.java" timestamp="1461202263366">
@@ -47,7 +47,7 @@
         <mark key="^" line="194" column="19" />
         <mark key="." line="194" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461698665867">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461786054969">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -94,6 +94,12 @@
         <mark key="]" line="5" column="47" />
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461786067719">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/FeedPageViewUtils.java" timestamp="1461106882170">
         <mark key="[" line="27" column="17" />
@@ -218,6 +224,7 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/bower_components/bsp-carousel/dist/bsp-carousel/bsp-carousel.js" timestamp="1461785903624" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461638419979">
         <mark key="[" line="8" column="60" />
         <mark key="]" line="8" column="60" />
@@ -308,43 +315,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>refreshAdInterval</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>refreshAdInterval</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDRVF1aXogcXVpeiA9IFF1ZXJ5LmZpbmRVbmlxdWUoQ0VRdWl6LmNsYXNzLCAiX2lkIiwgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInF1aXpfaWQiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZERpc3BsYXlPcHRpb25zKCJyZWZyZXNoQWRJbnRlcnZhbCIsIHJlZnJlc2hBZEludGVydmFsKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>refreshAdInterval</text>
       </register>
       <register name="2" type="4">
-        <text>m</text>
+        <text>refreshAdInterval</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
-      </register>
-      <register name="7" type="4">
         <text>r</text>
       </register>
+      <register name="7" type="4">
+        <text>g</text>
+      </register>
       <register name="8" type="4">
-        <text>P</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
