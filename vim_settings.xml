@@ -9,6 +9,9 @@
         <mark key="^" line="83" column="50" />
         <mark key="." line="83" column="50" />
       </file>
+      <file name="/a.dummy" timestamp="1462980853297">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Login.java" timestamp="1461202263366">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -124,6 +127,7 @@
         <mark key="^" line="65" column="63" />
         <mark key="." line="65" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/ResetPassword.java" timestamp="1462980846513" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="42" />
@@ -207,7 +211,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Author.java" timestamp="1462538819714" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="10" column="19" />
