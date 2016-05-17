@@ -9,8 +9,11 @@
         <mark key="^" line="83" column="50" />
         <mark key="." line="83" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1463513501378">
-        <mark key="[" line="111" column="56" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1463514516888">
+        <mark key="[" line="117" column="48" />
+        <mark key="]" line="117" column="48" />
+        <mark key="^" line="117" column="50" />
+        <mark key="." line="117" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1462980853297">
         <mark key="[" line="0" column="0" />
@@ -116,6 +119,7 @@
         <mark key="^" line="65" column="63" />
         <mark key="." line="65" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/ResetPassword.java" timestamp="1463514358248" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="42" />
@@ -316,11 +320,11 @@
       <jump line="61" column="38" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -328,32 +332,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBERUZfRU1BSUxfRlJPTSA9ICJuby1yZXBseUBzb3VyY2VtZWRpYS5jb20iOyAvLyBUT0RPOiBzZXR0aW5nPwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>RESET_PASSWORD_URL</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>special</text>
       </register>
-      <register name="6" type="4">
-        <text>?</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="7" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>?</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
