@@ -165,12 +165,12 @@
         <mark key="." line="308" column="0" />
         <mark key="^" line="316" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1463581383850">
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1463587110938">
         <mark key="'" line="63" column="38" />
-        <mark key="[" line="69" column="36" />
-        <mark key="]" line="69" column="36" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="68" column="67" />
+        <mark key="[" line="84" column="25" />
+        <mark key="]" line="84" column="26" />
+        <mark key="." line="84" column="26" />
+        <mark key="^" line="60" column="15" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461650058800">
         <mark key="]" line="59" column="23" />
@@ -337,10 +337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -349,31 +349,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzQmxhbmsodXNlci5nZXRDZnBCb2FyZElkKCkpKSB7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="2" type="4">
-        <text>L</text>
+        <text>_</text>
       </register>
       <register name="3" type="4">
-        <text>N</text>
+        <text>_</text>
       </register>
       <register name="4" type="4">
-        <text>+</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>L</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>N</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>L</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>N</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
