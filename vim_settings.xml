@@ -139,12 +139,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1463522268341">
-        <mark key="'" line="63" column="56" />
-        <mark key="[" line="91" column="28" />
-        <mark key="]" line="91" column="29" />
-        <mark key="." line="91" column="29" />
-        <mark key="^" line="85" column="23" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1463603633380">
+        <mark key="'" line="60" column="56" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="87" column="71" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461649469596">
         <mark key="[" line="34" column="46" />
@@ -218,7 +218,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463523110685">
+      <file name="/Dummy.txt" timestamp="1463603666750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" timestamp="1461168714163">
@@ -336,11 +336,11 @@
       <jump line="61" column="38" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5zaXRlLkF1dGhTZXR0aW5nczsK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>CFP</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -348,32 +348,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzQmxhbmsodXNlci5nZXRDZnBCb2FyZElkKCkpKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5zaXRlLkF1dGhTZXR0aW5nczsK</text>
       </register>
-      <register name="2" type="4">
-        <text>_</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXV0aFNldHRpbmdzIGF1dGhTZXR0aW5ncyA9IHNpdGUuYXMoU291cmNlTWVkaWFTaXRlLmNsYXNzKS5nZXRBdXRoU2V0dGluZ3MoKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text>CFP</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
