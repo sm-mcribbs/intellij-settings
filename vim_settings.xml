@@ -15,25 +15,6 @@
         <mark key="^" line="377" column="83" />
         <mark key="." line="377" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1463609433050">
-        <mark key="'" line="60" column="56" />
-        <mark key="[" line="88" column="24" />
-        <mark key="]" line="88" column="24" />
-        <mark key="^" line="76" column="26" />
-        <mark key="." line="88" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461649469596">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="34" column="56" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="34" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content.php" timestamp="1449416224581">
-        <mark key="[" line="113" column="25" />
-        <mark key="]" line="113" column="26" />
-        <mark key="^" line="113" column="26" />
-        <mark key="." line="113" column="26" />
-      </file>
       <file name="/a.dummy" timestamp="1464188859288">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,41 +24,17 @@
         <mark key="^" line="113" column="31" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1464189622335">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="64" column="61" />
-        <mark key="]" line="64" column="62" />
-        <mark key="." line="64" column="62" />
-        <mark key="^" line="64" column="102" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461650058800">
-        <mark key="]" line="59" column="23" />
-        <mark key="." line="59" column="23" />
-        <mark key="^" line="59" column="23" />
-      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461649247185">
         <mark key="[" line="144" column="24" />
         <mark key="]" line="144" column="24" />
         <mark key="." line="144" column="24" />
         <mark key="^" line="144" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/_cequiz-in-2col.json" timestamp="1460405250303">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
-      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/question.hbs" timestamp="1463502074040">
         <mark key="[" line="8" column="91" />
         <mark key="]" line="8" column="105" />
         <mark key="^" line="8" column="105" />
         <mark key="." line="8" column="105" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460753751708">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="44" column="11" />
-        <mark key="." line="44" column="11" />
-        <mark key="^" line="44" column="11" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/style.css" timestamp="1449417963857">
         <mark key="[" line="361" column="19" />
@@ -91,23 +48,11 @@
         <mark key="^" line="26" column="86" />
         <mark key="." line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="30" column="19" />
-      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/template-tags.php" timestamp="1449416131982">
         <mark key="[" line="194" column="15" />
         <mark key="]" line="194" column="19" />
         <mark key="^" line="194" column="19" />
         <mark key="." line="194" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizMainViewCreator.java" timestamp="1460340034611">
-        <mark key="[" line="46" column="80" />
-        <mark key="]" line="46" column="84" />
-        <mark key="^" line="46" column="84" />
-        <mark key="." line="46" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1463502047031">
         <mark key="[" line="0" column="18" />
@@ -126,18 +71,6 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461649462529">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1461103996159">
-        <mark key="[" line="161" column="54" />
-        <mark key="]" line="161" column="62" />
-        <mark key="." line="161" column="62" />
-        <mark key="^" line="161" column="62" />
-      </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="49" />
@@ -149,14 +82,6 @@
         <mark key="]" line="23" column="32" />
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1463502902601">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1464197860119">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
         <mark key="[" line="93" column="23" />
@@ -182,17 +107,117 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/plugins/cequiz.js" timestamp="1461650689070">
-        <mark key="[" line="35" column="83" />
-        <mark key="]" line="35" column="89" />
-        <mark key="." line="35" column="89" />
-        <mark key="^" line="35" column="89" />
-      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1461648750186">
         <mark key="[" line="54" column="90" />
         <mark key="]" line="54" column="86" />
         <mark key="." line="54" column="86" />
         <mark key="^" line="54" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" timestamp="1464215519945" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedModuleViewCreator.java" timestamp="1460432519756">
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="65" column="63" />
+        <mark key="^" line="65" column="63" />
+        <mark key="." line="65" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/footer.php" timestamp="1449249802272">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/modules/HeroModule.java" timestamp="1461128758431">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1463609433050">
+        <mark key="'" line="60" column="56" />
+        <mark key="[" line="88" column="24" />
+        <mark key="]" line="88" column="24" />
+        <mark key="^" line="76" column="26" />
+        <mark key="." line="88" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461649469596">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content.php" timestamp="1449416224581">
+        <mark key="[" line="113" column="25" />
+        <mark key="]" line="113" column="26" />
+        <mark key="^" line="113" column="26" />
+        <mark key="." line="113" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1464189622335">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="64" column="61" />
+        <mark key="]" line="64" column="62" />
+        <mark key="." line="64" column="62" />
+        <mark key="^" line="64" column="102" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1461650058800">
+        <mark key="]" line="59" column="23" />
+        <mark key="." line="59" column="23" />
+        <mark key="^" line="59" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/_cequiz-in-2col.json" timestamp="1460405250303">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460753751708">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+        <mark key="^" line="44" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizMainViewCreator.java" timestamp="1460340034611">
+        <mark key="[" line="46" column="80" />
+        <mark key="]" line="46" column="84" />
+        <mark key="^" line="46" column="84" />
+        <mark key="." line="46" column="84" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461649462529">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/BriefItemViewCreator.java" timestamp="1461103996159">
+        <mark key="[" line="161" column="54" />
+        <mark key="]" line="161" column="62" />
+        <mark key="." line="161" column="62" />
+        <mark key="^" line="161" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1463502902601">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1464197860119">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/plugins/cequiz.js" timestamp="1461650689070">
+        <mark key="[" line="35" column="83" />
+        <mark key="]" line="35" column="89" />
+        <mark key="." line="35" column="89" />
+        <mark key="^" line="35" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1463502757092">
         <mark key="[" line="9" column="11" />
@@ -201,12 +226,6 @@
         <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1464100813989" />
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedModuleViewCreator.java" timestamp="1460432519756">
-        <mark key="[" line="63" column="18" />
-        <mark key="]" line="65" column="63" />
-        <mark key="^" line="65" column="63" />
-        <mark key="." line="65" column="63" />
-      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461216480370">
         <mark key="[" line="80" column="56" />
         <mark key="]" line="80" column="61" />
@@ -229,23 +248,11 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="42" />
-        <mark key="." line="40" column="42" />
-        <mark key="^" line="40" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1461638419979">
         <mark key="[" line="8" column="60" />
         <mark key="]" line="8" column="60" />
         <mark key="." line="8" column="60" />
         <mark key="^" line="8" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/footer.php" timestamp="1449249802272">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/userAccount/login.json" timestamp="1461202148585">
         <mark key="[" line="8" column="4" />
@@ -267,12 +274,6 @@
       </file>
       <file name="/fragment.java" timestamp="1462311550948">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/modules/HeroModule.java" timestamp="1461128758431">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="44" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="15" column="44" />
       </file>
     </filemarks>
     <jumps>
