@@ -71,6 +71,7 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/RssFeedItemOutput.java" timestamp="1464360947151" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/wpml-config.xml" timestamp="1449248253200">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="49" />
@@ -113,7 +114,6 @@
         <mark key="." line="54" column="86" />
         <mark key="^" line="54" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" timestamp="1464215519945" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedModuleViewCreator.java" timestamp="1460432519756">
         <mark key="[" line="63" column="18" />
         <mark key="]" line="65" column="63" />
@@ -225,7 +225,7 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1464100813989" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1464361082905" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461216480370">
         <mark key="[" line="80" column="56" />
         <mark key="]" line="80" column="61" />
