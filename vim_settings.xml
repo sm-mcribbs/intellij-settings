@@ -95,7 +95,6 @@
         <mark key="^" line="128" column="40" />
         <mark key="." line="128" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Article.java" timestamp="1464818294526" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1463502281080">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -107,6 +106,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/corporate/Careers.less" timestamp="1465227795930">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1461648750186">
         <mark key="[" line="54" column="90" />
@@ -181,7 +186,6 @@
         <mark key="." line="44" column="11" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/ops/chef/environments/qa.json" timestamp="1464816817753" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/page.php" timestamp="1449414637141">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="10" column="19" />
@@ -226,7 +230,6 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1464883012767" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461216480370">
         <mark key="[" line="80" column="56" />
         <mark key="]" line="80" column="61" />
