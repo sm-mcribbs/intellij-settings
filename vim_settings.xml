@@ -235,6 +235,18 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateCareersPageViewModel.java" timestamp="1465252168782">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/model/CorporateCareersPage.java" timestamp="1465251976158">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="10" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/LoginViewCreator.java" timestamp="1461216480370">
         <mark key="[" line="80" column="56" />
         <mark key="]" line="80" column="61" />
@@ -278,10 +290,16 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1465250037763">
+      <file name="/fragment.java" timestamp="1465251912852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/corporate-pages/services/index.json" timestamp="1465250903139" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/corporate-pages/careers/index.json" timestamp="1465252142621">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1465251612222" />
     </filemarks>
     <jumps>
@@ -331,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>services</text>
+        <text>MediakitsView</text>
       </register>
       <register name="-" type="4">
-        <text>services</text>
+        <text>MediakitsView</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -343,31 +361,31 @@
         <text encoding="base64">ICAgICAgICAvKioqKioqKiogQ0hBTkdFIFRISVMgKioqKioqKiovCg==</text>
       </register>
       <register name="1" type="4">
-        <text>services</text>
+        <text>MediakitsView</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>mediakits</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+      <register name="3" type="4">
+        <text>MediakitsView</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5jb3JwLm1vZGVsLkNvcnBvcmF0ZU1lZGlha2l0c1BhZ2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG91Y2hwb2ludHMoNzE2MDQ3TCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5jb3JwLnZpZXdtb2RlbC5Db3Jwb3JhdGVNZWRpYWtpdHNQYWdlVmlld01vZGVsOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlcnMoNDI1MDAwTCkK</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY291bnQoMykK</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubGFiZWwoIkhlYWx0aGNhcmUgJiBUZWNobm9sb2d5IikK</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDb21tdW5pdHlSZWFjaENoZWNrYm94Vmlldy5CdWlsZGVyKCkK</text>
+      <register name="9" type="4">
+        <text>k</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
