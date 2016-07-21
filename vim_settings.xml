@@ -15,8 +15,6 @@
         <mark key="^" line="377" column="83" />
         <mark key="." line="377" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateServicesPageViewModel.java" timestamp="1465251006618" />
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/target/generated-sources/styleguide/com/sourcemedia/view/corporate/ServicesView.java" timestamp="1465250819754" />
       <file name="/a.dummy" timestamp="1465250046739">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,7 +89,6 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Promotable.java" timestamp="1465251595031" />
       <file name="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/content-large.php" timestamp="1449415765485">
         <mark key="[" line="93" column="23" />
         <mark key="]" line="93" column="31" />
@@ -116,11 +113,11 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/corporate/Careers.less" timestamp="1465227795930">
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/corporate/Careers.less" timestamp="1469135370495">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="82" />
+        <mark key="^" line="72" column="82" />
+        <mark key="." line="72" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/model/CorporateMediaKitsPage.java" timestamp="1465250112798">
         <mark key="[" line="14" column="27" />
@@ -146,7 +143,6 @@
         <mark key="^" line="65" column="63" />
         <mark key="." line="65" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/corporate/Services.hbs" timestamp="1465250776907" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460431024606">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="42" />
@@ -159,14 +155,12 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/target/generated-sources/styleguide/com/sourcemedia/view/corporate/MediakitsView.java" timestamp="1465251061908" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/modules/HeroModule.java" timestamp="1461128758431">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="44" />
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateAboutPageViewModel.java" timestamp="1465236214139" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461649469596">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -277,7 +271,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/corporate/mediakits.hbs" timestamp="1465250549893" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/main.js" timestamp="1460645431235">
         <mark key="[" line="116" column="27" />
         <mark key="]" line="116" column="30" />
@@ -293,14 +286,12 @@
       <file name="/fragment.java" timestamp="1465251912852">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/corporate-pages/services/index.json" timestamp="1465250903139" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/corporate-pages/careers/index.json" timestamp="1465252142621">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1465251612222" />
     </filemarks>
     <jumps>
       <jump line="1104" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
@@ -349,10 +340,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MediakitsView</text>
+        <text>url('media/carreers-head-bkg.png');</text>
       </register>
       <register name="-" type="4">
-        <text>MediakitsView</text>
+        <text>url('media/carreers-head-bkg.png');</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -388,7 +379,7 @@
         <text>k</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -427,8 +418,8 @@
         <entry>set nu</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
