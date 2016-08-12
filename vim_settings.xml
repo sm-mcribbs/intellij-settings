@@ -173,7 +173,6 @@
         <mark key="^" line="113" column="26" />
         <mark key="." line="113" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/pom.xml" timestamp="1470683876843" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/_cequiz-in-2col.json" timestamp="1460405250303">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="43" />
@@ -380,7 +379,7 @@
         <text>k</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -401,9 +400,6 @@
         <entry>twitter</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZiXy9pbl8vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2ZiXy9kYV8vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2ZiXy92dF8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZiXy9wbF8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dwXy9waV8vZw==</entry>
@@ -421,6 +417,9 @@
         <entry>W</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>sp</entry>
+        <entry>vsp</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
