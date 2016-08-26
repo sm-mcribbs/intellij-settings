@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="95afeb97-0c9d-4445-ae33-993b7f781c9b" name="ryotdev.mcribbs.net" url="http://ryotdev.mcribbs.net">
-        <fileTransfer host="ryotdev.mcribbs.net" port="22" rootFolder="/home/mcribbs" accessType="SFTP" password="dfebdfc3dffedfc2df9fdfc2dfeedfe0" username="mcribbs">
+        <fileTransfer host="ryotdev.mcribbs.net" port="22" rootFolder="/home/mcribbs" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsF9CSWjPlpuOEWTQ2/oBDBKumE6+Z8WbWnxhAHZkMdCPI7BIsuz2vPBPzGcf/WsOMe5czXYmUuBfU7xk5IIooDwDAuk7qf8Ok7oS8WMKB5VlHux/BiaN69TGIwdVWdurjRfVnlqnAz4g0l/jkwcs7PqR15xJixci8/nay1II/NbqTL4Er5zSxh1KqS1eJ4srH2Wzc+zhekCy97V/n3XlnxPa1aY/sjGapYTnWcnlCchLplI/VyU3y16LRKz88fEZHw==</data>
   </component>
 </application>
