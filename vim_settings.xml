@@ -15,7 +15,7 @@
         <mark key="^" line="377" column="83" />
         <mark key="." line="377" column="83" />
       </file>
-      <file name="/a.dummy" timestamp="1465250046739">
+      <file name="/a.dummy" timestamp="1485033708293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitPageViewModel.java" timestamp="1465250014178">
@@ -214,6 +214,7 @@
         <mark key="." line="161" column="62" />
         <mark key="^" line="161" column="62" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateHeadViewModel.java" timestamp="1485034475959" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1465251583668">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
