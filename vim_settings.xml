@@ -30,7 +30,7 @@
         <mark key="^" line="113" column="31" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1461649247185">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1485299187138">
         <mark key="[" line="144" column="24" />
         <mark key="]" line="144" column="24" />
         <mark key="." line="144" column="24" />
@@ -101,7 +101,6 @@
         <mark key="^" line="128" column="40" />
         <mark key="." line="128" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporatePageViewModel.java" timestamp="1485038111075" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1463502281080">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -162,7 +161,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1461649469596">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1485299343277">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
         <mark key="." line="34" column="56" />
@@ -174,6 +173,7 @@
         <mark key="^" line="113" column="26" />
         <mark key="." line="113" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/target/generated-sources/styleguide/com/sourcemedia/view/render/components/cequiz/CequizView.java" timestamp="1485299521482" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -203,7 +203,7 @@
         <mark key="^" line="46" column="84" />
         <mark key="." line="46" column="84" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1461649462529">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1485299383432">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="5" />
         <mark key="." line="15" column="5" />
@@ -230,6 +230,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1485298757068">
+        <mark key="[" line="107" column="39" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/plugins/cequiz.js" timestamp="1461650689070">
         <mark key="[" line="35" column="83" />
