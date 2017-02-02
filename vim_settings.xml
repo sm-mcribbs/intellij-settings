@@ -155,7 +155,12 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Registration.java" timestamp="1486059360274" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Registration.java" timestamp="1486060584826">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="70" />
+        <mark key="." line="21" column="70" />
+        <mark key="^" line="21" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/modules/HeroModule.java" timestamp="1461128758431">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="44" />
@@ -185,6 +190,7 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/RegistrationViewCreator.java" timestamp="1486060552347" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460753751708">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="44" column="11" />
@@ -357,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>verify</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>verify</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
