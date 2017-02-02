@@ -131,6 +131,7 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java" timestamp="1486067099720" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1461648750186">
         <mark key="[" line="54" column="90" />
         <mark key="]" line="54" column="86" />
@@ -155,12 +156,13 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Registration.java" timestamp="1486061157046">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="21" column="66" />
-        <mark key="." line="21" column="66" />
-        <mark key="^" line="21" column="67" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/Registration.java" timestamp="1486067011394">
+        <mark key="[" line="159" column="32" />
+        <mark key="]" line="159" column="31" />
+        <mark key="." line="159" column="31" />
+        <mark key="^" line="159" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1486067125074" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/modules/HeroModule.java" timestamp="1461128758431">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="44" />
@@ -190,10 +192,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/RegistrationViewCreator.java" timestamp="1486065289457">
-        <mark key="[" line="706" column="0" />
-        <mark key="]" line="706" column="0" />
-        <mark key="." line="706" column="0" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/RegistrationViewCreator.java" timestamp="1486067888076">
+        <mark key="[" line="707" column="48" />
+        <mark key="]" line="707" column="48" />
+        <mark key="." line="707" column="48" />
+        <mark key="^" line="707" column="48" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1460753751708">
         <mark key="[" line="42" column="4" />
@@ -236,7 +239,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486065933115">
+      <file name="/Dummy.txt" timestamp="1486067347807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -366,11 +369,11 @@
       <jump line="64" column="8" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLiAgIGFkZFRvSW5wdXRzKG5ldyApCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
