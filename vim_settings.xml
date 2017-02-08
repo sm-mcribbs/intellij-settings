@@ -30,6 +30,7 @@
         <mark key="^" line="113" column="31" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/RegistrationSubscription.java" timestamp="1486567313701" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1485299187138">
         <mark key="[" line="144" column="24" />
         <mark key="]" line="144" column="24" />
@@ -48,6 +49,7 @@
         <mark key="^" line="361" column="22" />
         <mark key="." line="361" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/ContentEmbargoBypassFilter.java" timestamp="1486567072592" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" timestamp="1465251434943">
         <mark key="[" line="26" column="59" />
         <mark key="]" line="26" column="86" />
@@ -242,6 +244,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/util/EmbargoViewUtils.java" timestamp="1486567464367" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1486520683482">
         <mark key="[" line="403" column="26" />
         <mark key="]" line="403" column="26" />
@@ -302,6 +305,7 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/MainAjaxViewCreator.java" timestamp="1486567351139" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/main.js" timestamp="1460645431235">
         <mark key="[" line="116" column="27" />
         <mark key="]" line="116" column="30" />
