@@ -237,10 +237,16 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486509095557">
+      <file name="/Dummy.txt" timestamp="1486509182553">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1486520683482">
+        <mark key="[" line="403" column="26" />
+        <mark key="]" line="403" column="26" />
+        <mark key="^" line="403" column="25" />
+        <mark key="." line="403" column="26" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/assets/scripts/plugins/cequiz.js" timestamp="1461650689070">
         <mark key="[" line="35" column="83" />
@@ -365,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -404,7 +410,7 @@
         <text>mediakits</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -440,11 +446,11 @@
         <entry>set nu</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
