@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="IGNORE_GROUP" displayType="NONE" />
     <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
   </component>
 </application>
