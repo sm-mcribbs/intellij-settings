@@ -124,7 +124,7 @@
         <mark key="^" line="113" column="31" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/RegistrationViewCreator.java" timestamp="1488582352404">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/auth/RegistrationViewCreator.java" timestamp="1488819995727">
         <mark key="[" line="735" column="49" />
         <mark key="m" line="713" column="26" />
         <mark key="]" line="735" column="49" />
@@ -375,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
