@@ -3,53 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/auth/AuthFilter.java" timestamp="1488833327335" />
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/Dummy.txt" timestamp="1488832720616">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/Commentable.java" timestamp="1488831033803" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1488833429943">
-        <mark key="[" line="23" column="64" />
-        <mark key="]" line="23" column="62" />
-        <mark key="." line="23" column="62" />
-        <mark key="^" line="23" column="62" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1488831702191" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1465251583668">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/userAccount/createAccount-step1.json" timestamp="1488833117320" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/SiteMappableContent.java" timestamp="1488832648480" />
+      <file name="$MAVEN_REPOSITORY$/com/psddev/dari-db/3.2.2422-501a79/dari-db-3.2.2422-501a79.jar!/com/psddev/dari/db/Record.class" timestamp="1488992731585" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1488993755262">
+        <mark key="[" line="64" column="63" />
+        <mark key="]" line="64" column="42" />
+        <mark key="^" line="64" column="42" />
+        <mark key="." line="64" column="42" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1488832385170">
         <mark key="[" line="56" column="50" />
         <mark key="]" line="56" column="24" />
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/messages/head/Head.java" timestamp="1488833590914" />
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1488993887590">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1488832628300">
-        <mark key="[" line="246" column="17" />
-        <mark key="]" line="246" column="16" />
-        <mark key="." line="246" column="16" />
-        <mark key="^" line="246" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/user-ids.hbs" timestamp="1488830780137" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/answer.hbs" timestamp="1488830782428" />
-      <file name="/Dummy.txt" timestamp="1488832720616">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/elements/form.hbs" timestamp="1488833021349" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -62,14 +49,23 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/target/generated-sources/styleguide/com/sourcemedia/view/corporate/page/HeaderView.java" timestamp="1488833554706" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1488833708248">
         <mark key="[" line="403" column="26" />
         <mark key="]" line="403" column="26" />
         <mark key="^" line="403" column="25" />
         <mark key="." line="403" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/question.hbs" timestamp="1488830735042" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1488832628300">
+        <mark key="[" line="246" column="17" />
+        <mark key="]" line="246" column="16" />
+        <mark key="." line="246" column="16" />
+        <mark key="^" line="246" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1104" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
