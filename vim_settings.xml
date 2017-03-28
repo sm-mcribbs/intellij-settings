@@ -18,7 +18,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/AdvertisingUtils.java" timestamp="1489701107120" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1488997422291">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="64" column="42" />
@@ -49,17 +48,16 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/ExternalArticle.java" timestamp="1489701372835" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1488833708248">
-        <mark key="[" line="403" column="26" />
-        <mark key="]" line="403" column="26" />
-        <mark key="^" line="403" column="25" />
-        <mark key="." line="403" column="26" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1490722207381">
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
+        <mark key="^" line="353" column="30" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1488832628300">
         <mark key="[" line="246" column="17" />
@@ -114,45 +112,44 @@
       <jump line="64" column="8" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NEVER</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
       </register>
-      <register name="0" type="4">
-        <text>@RoutingFilter.Path(application = &quot;&quot;, value = &quot;/ce-quiz/record&quot;)
-public class CEQuizResultsServlet extends HttpServlet {</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBUb29sVWkuTm90ZSgiRS5nLiwgJ0VCQUJlbmVmaXROZXdzJyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoInZhbHVlIiwgbW9kZWwuZ2V0Q29udGludWVCdXR0b25MYWJlbCgpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoInR5cGUiLCAic3VibWl0IikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoImNsYXNzIiwgImJ0bi1wcmltYXJ5LWJyYW5kIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZFRvSW5wdXRzKG5ldyBJbnB1dFZpZXcuQnVpbGRlcigpIC8vIHN1Ym1pdCBidXR0b24K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBUb29sVWkuTm90ZSgiU2hvdWxkIE5FVkVSIGJlIGNoZWNrZWQiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUb29sVWkuVGFiKFRBQl9BRFMpCiAgICBwcml2YXRlIGJvb2xlYW4gZW5hYmxlQWRzQXN5bmNSZW5kZXJpbmc7Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBUb29sVWkuVGFiKFRBQl9BRFMpCiAgICBwcml2YXRlIGJvb2xlYW4gZW5hYmxlQWRzU2luZ2xlUmVxdWVzdDsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoInZhbHVlIiwgbW9kZWwuZ2V0Q29udGludWVCdXR0b25MYWJlbCgpKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoInR5cGUiLCAic3VibWl0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLiAgIGFkZFRvSW5wdXRzKG5ldyApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoImNsYXNzIiwgImJ0bi1wcmltYXJ5LWJyYW5kIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZFRvSW5wdXRzKG5ldyBJbnB1dFZpZXcuQnVpbGRlcigpIC8vIHN1Ym1pdCBidXR0b24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
