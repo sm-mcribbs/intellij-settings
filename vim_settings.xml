@@ -65,6 +65,9 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1498074311949" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" timestamp="1498073740558" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1498074325587" />
       <file name="/fragment.java" timestamp="1492533307399">
         <mark key="[" line="0" column="0" />
       </file>
