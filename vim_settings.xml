@@ -36,6 +36,12 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1499898771260">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1492462127160">
         <mark key="[" line="170" column="15" />
         <mark key="]" line="170" column="19" />
@@ -54,13 +60,12 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/salesforce/SourceMediaSalesforceProxyClient.java" timestamp="1499696683550" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1499696509868" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/drm/TieredSubscription.java" timestamp="1499898380010" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1488832111617">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="12" column="20" />
@@ -124,10 +129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Descending</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Descending</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
@@ -136,10 +141,10 @@
         <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuYW5kKHNvcnREYXRlRmllbGQgKyAiICAhPSBtaXNzaW5nIik7CiAgICAgICAgICAgIHF1ZXJ5LnNvcnREZXNjZW5kaW5nKHNvcnREYXRlRmllbGQpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgYmxhaDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -147,20 +152,24 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUb29sVWkuTm90ZSgiU2hvdWxkIE5FVkVSIGJlIGNoZWNrZWQiKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBPYmplY3QgbmV4dCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUb29sVWkuVGFiKFRBQl9BRFMpCiAgICBwcml2YXRlIGJvb2xlYW4gZW5hYmxlQWRzQXN5bmNSZW5kZXJpbmc7Cgo=</text>
+      <register name="6" type="4">
+        <text>Iterator() {
+            @Override
+            public boolean hasNext() {
+                
+            }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUb29sVWkuVGFiKFRBQl9BRFMpCiAgICBwcml2YXRlIGJvb2xlYW4gZW5hYmxlQWRzU2luZ2xlUmVxdWVzdDsKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRFeHRyYUF0dHJpYnV0ZXMoInZhbHVlIiwgbW9kZWwuZ2V0Q29udGludWVCdXR0b25MYWJlbCgpKQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBtYXR0aGV3LmNyaWJicyBvbiA3LzEyLzE3Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
