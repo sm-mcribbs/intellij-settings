@@ -36,11 +36,11 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1499969860462">
-        <mark key="[" line="50" column="76" />
-        <mark key="]" line="50" column="76" />
-        <mark key="." line="50" column="76" />
-        <mark key="^" line="50" column="76" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1499970498135">
+        <mark key="[" line="52" column="77" />
+        <mark key="]" line="52" column="88" />
+        <mark key="." line="52" column="88" />
+        <mark key="^" line="52" column="88" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1492462127160">
         <mark key="[" line="170" column="15" />
@@ -137,7 +137,7 @@
         <text>.append(&quot;\n&quot;)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQodXNlckNvdW50KS5hcHBlbmQoIiwiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIG91dHB1dCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -167,7 +167,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hcHBlbmQoZGYuZm9ybWF0KHN0YXJ0KSkuYXBwZW5kKCIjIyMjIyIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -206,9 +206,9 @@
         <entry>q!</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>%s/.append(&quot;\n&quot;)/.append(&quot;#####&quot;)/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
