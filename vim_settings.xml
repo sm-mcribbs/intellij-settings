@@ -36,11 +36,11 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1499910933019">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="29" column="116" />
-        <mark key="^" line="29" column="116" />
-        <mark key="." line="29" column="116" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1499914896192">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="72" column="38" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1492462127160">
         <mark key="[" line="170" column="15" />
@@ -48,6 +48,7 @@
         <mark key="." line="170" column="19" />
         <mark key="^" line="170" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/ListModule.java" timestamp="1499913932427" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1488993887590">
         <mark key="[" line="23" column="64" />
         <mark key="]" line="23" column="62" />
@@ -127,55 +128,55 @@
       <jump line="64" column="8" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>FirstName</text>
       </register>
       <register name="/" type="4">
-        <text>prefix</text>
+        <text>.append(&quot;\n&quot;)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoIiAgIE1heCBTZWF0czogIikuYXBwZW5kKCgoU2l0ZUxpY2Vuc2VHcm91cCkgc3ViLmdldFN1YnNjcmlwdGlvbkVudGl0eSgpKS5nZXRNYXhTZWF0cygpKS5hcHBlbmQoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvciBzID0gc3Vicy5pdGVyYXRvcigpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkrKzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LmFwcGVuZCgiLCAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LmFwcGVuZChkZi5mb3JtYXQoc3ViLmdldFN0YXJ0RGF0ZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFF1ZXJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgZW5kID0gc3ViLmdldEVuZERhdGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXRwdXQuYXBwZW5kKCJFbmQgZGF0ZTogIikuYXBwZW5kKGRmLmZvcm1hdChzdWIuZ2V0RW5kRGF0ZSgpKSkuYXBwZW5kKCJcbiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXRwdXQuYXBwZW5kKCJFbmQgZGF0ZTogIikuYXBwZW5kKGRmLmZvcm1hdChzdWIuZ2V0RW5kRGF0ZSgpKSkuYXBwZW5kKCJcbiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoIlN0YXJ0IGRhdGU6ICIpLmFwcGVuZChkZi5mb3JtYXQoc3ViLmdldFN0YXJ0RGF0ZSgpKSkuYXBwZW5kKCJcbiIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prefix</last-search>
+      <last-search>.append(&quot;\n&quot;)</last-search>
       <last-offset />
-      <last-pattern>prefix</last-pattern>
-      <last-replace>votable</last-replace>
-      <last-substitute>twitter</last-substitute>
+      <last-pattern>.append(&quot;\n&quot;)</last-pattern>
+      <last-replace>.append(&quot;#####&quot;)</last-replace>
+      <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -186,9 +187,9 @@
         <entry>gp_</entry>
         <entry>facebook</entry>
         <entry>twitter</entry>
+        <entry>.append(&quot;\n&quot;)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZiXy9wbF8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dwXy9waV8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZhY2Vib29rL2dvb2dsZS9n</entry>
@@ -206,8 +207,9 @@
         <entry>q!</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>%s/.append(&quot;\n&quot;)/.append(&quot;#####&quot;)/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
