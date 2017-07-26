@@ -79,11 +79,14 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501081082091">
-        <mark key="[" line="81" column="50" />
-        <mark key="]" line="81" column="63" />
-        <mark key="." line="81" column="63" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501084833622">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="19" />
         <mark key="^" line="81" column="63" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" timestamp="1501084825504">
+        <mark key="'" line="105" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1492533307399">
         <mark key="[" line="0" column="0" />
@@ -139,16 +142,23 @@
       <jump line="15" column="80" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="61" column="38" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
+      <jump line="92" column="39" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
+      <jump line="67" column="46" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
+      <jump line="78" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
+      <jump line="79" column="46" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
+      <jump line="84" column="73" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
+      <jump line="94" column="14" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
+      <jump line="105" column="34" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>.append(&quot;\n&quot;)</text>
+        <text>site</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIlVybCBQdXNoIGlzID0gW3t9XSAgLS0tPiBTZW5kaW5nIFJlc3RmdWwgV2ViIFNlcnZpY2UgIiwgdXJsKTsK</text>
@@ -185,9 +195,9 @@
       </register>
     </registers>
     <search>
-      <last-search>.append(&quot;\n&quot;)</last-search>
+      <last-search>site</last-search>
       <last-offset />
-      <last-pattern>.append(&quot;\n&quot;)</last-pattern>
+      <last-pattern>site</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -201,6 +211,7 @@
         <entry>facebook</entry>
         <entry>twitter</entry>
         <entry>.append(&quot;\n&quot;)</entry>
+        <entry>site</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
