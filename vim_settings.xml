@@ -89,11 +89,12 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501088373203">
-        <mark key="'" line="56" column="16" />
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="79" column="20" />
-        <mark key="." line="79" column="20" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
+        <mark key="'" line="60" column="16" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="88" column="12" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1492533307399">
         <mark key="[" line="0" column="0" />
@@ -170,8 +171,8 @@
       <jump line="115" column="44" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SlideshowGalleryViewCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -183,31 +184,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIlVybCBQdXNoIGlzID0gW3t9XSAgLS0tPiBTZW5kaW5nIFJlc3RmdWwgV2ViIFNlcnZpY2UgIiwgdXJsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghc2l0ZXMuaXNFbXB0eSgpKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFNpdGUgc2l0ZSA9IGFydGljbGUuYXMoU2l0ZS5PYmplY3RNb2RpZmljYXRpb24uY2xhc3MpLmdldE93bmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuZGFyaS51dGlsLk9iamVjdFV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBOaXRmU3RhdHVzIGdldE5pdGZTdGF0dXMoKSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLmdldE5pdGZTdGF0dXMoKTsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
