@@ -72,6 +72,10 @@
         <mark key="]" line="250" column="29" />
         <mark key="." line="250" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/LyticsApiClient.java" timestamp="1505926704392">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -177,7 +181,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>yt</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -185,8 +189,8 @@
       <register name="/" type="4">
         <text>nitf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5lcnJvcigiRXJyb3IgY29ubmVjdGluZyB0byBmdHAgc2VydmVyIiwgZS5nZXRNZXNzYWdlKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>yt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExPCg==</text>
