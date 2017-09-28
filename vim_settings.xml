@@ -38,6 +38,7 @@
         <mark key="." line="170" column="19" />
         <mark key="^" line="170" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/rome/rome/1.0/rome-1.0.jar!/com/sun/syndication/feed/synd/SyndCategoryImpl.class" timestamp="1506625601289" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" timestamp="1505338415884">
         <mark key="[" line="250" column="29" />
         <mark key="]" line="250" column="29" />
@@ -76,15 +77,12 @@
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1506528502593">
         <mark key="[" line="732" column="47" />
-        <mark key="]" line="733" column="15" />
-        <mark key="^" line="733" column="15" />
-        <mark key="." line="733" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1506623039578">
-        <mark key="[" line="123" column="32" />
-        <mark key="]" line="123" column="43" />
-        <mark key="^" line="123" column="43" />
-        <mark key="." line="123" column="43" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1506625539849">
+        <mark key="[" line="123" column="62" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="125" column="23" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/FeedResultsList.java" timestamp="1495569477616">
         <mark key="[" line="140" column="22" />
@@ -92,7 +90,6 @@
         <mark key="^" line="140" column="31" />
         <mark key="." line="140" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/RssFeedItemOutput.java" timestamp="1506622783318" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" timestamp="1506434803385">
         <mark key="'" line="164" column="47" />
         <mark key="[" line="262" column="43" />
@@ -124,7 +121,6 @@
         <mark key="]" line="822" column="0" />
         <mark key="." line="822" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1506623060032" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="98" column="0" />
@@ -217,8 +213,8 @@
       <jump line="164" column="47" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -230,31 +226,31 @@
         <text encoding="base64">ICAgIC8vIENNUy0zMTkgc2VjdGlvbiBpbiBmaWxlIDEvMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiBpc0Rpc2FibGVSZW5ld2FsU3RhcnREYXRlKCkgewogICAgICAgIHJldHVybiBkaXNhYmxlUmVuZXdhbFN0YXJ0RGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREaXNhYmxlUmVuZXdhbFN0YXJ0RGF0ZShib29sZWFuIGRpc2FibGVSZW5ld2FsU3RhcnREYXRlKSB7CiAgICAgICAgdGhpcy5kaXNhYmxlUmVuZXdhbFN0YXJ0RGF0ZSA9IGRpc2FibGVSZW5ld2FsU3RhcnREYXRlOwogICAgfQoKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUb29sVWkuVGFiKFRBQl9BRFZBTkNFRCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUb29sVWkuSGVhZGluZygiRmVhdHVyZSBGbGFncyIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiBpc0Rpc2FibGVSZW5ld2FsU3RhcnREYXRlKCkgewogICAgICAgIHJldHVybiBkaXNhYmxlUmVuZXdhbFN0YXJ0RGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREaXNhYmxlUmVuZXdhbFN0YXJ0RGF0ZShib29sZWFuIGRpc2FibGVSZW5ld2FsU3RhcnREYXRlKSB7CiAgICAgICAgdGhpcy5kaXNhYmxlUmVuZXdhbFN0YXJ0RGF0ZSA9IGRpc2FibGVSZW5ld2FsU3RhcnREYXRlOwogICAgfQoKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBUb29sVWkuVGFiKFRBQl9BRFZBTkNFRCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBUb29sVWkuSGVhZGluZygiRmVhdHVyZSBGbGFncyIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAVG9vbFVpLkhlYWRpbmcoIkZlYXR1cmUgRmxhZ3MiKQogICAgQFRvb2xVaS5UYWIoVEFCX0FEVkFOQ0VEKQogICAgQERpc3BsYXlOYW1lKCJEaXNhYmxlIHN0YXJ0IGRhdGUgb24gcmVuZXciKQogICAgQFRvb2xVaS5Ob3RlKCJUdXJucyBvZmYgdGhlIGxvZ2ljIHRvIGNhbGN1bGF0ZSBhbmQgc2V0IHRoZSBzdGFydCBkYXRlIG9uIHRoZSBadW9yYSByZW5ld2FsIGNhbGxvdXQuICBTdGVwIG9uZSBpbiB0ZXN0aW5nIHRoZSBuZXcgbGF0ZSAyMDE3IHJlbmV3YWwgZmxvdy4iKQogICAgcHJpdmF0ZSBib29sZWFuIGRpc2FibGVSZW5ld2FsU3RhcnREYXRlOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l0ZQo=</text>
+        <text encoding="base64">CiAgICBAVG9vbFVpLkhlYWRpbmcoIkZlYXR1cmUgRmxhZ3MiKQogICAgQFRvb2xVaS5UYWIoVEFCX0FEVkFOQ0VEKQogICAgQERpc3BsYXlOYW1lKCJEaXNhYmxlIHN0YXJ0IGRhdGUgb24gcmVuZXciKQogICAgQFRvb2xVaS5Ob3RlKCJUdXJucyBvZmYgdGhlIGxvZ2ljIHRvIGNhbGN1bGF0ZSBhbmQgc2V0IHRoZSBzdGFydCBkYXRlIG9uIHRoZSBadW9yYSByZW5ld2FsIGNhbGxvdXQuICBTdGVwIG9uZSBpbiB0ZXN0aW5nIHRoZSBuZXcgbGF0ZSAyMDE3IHJlbmV3YWwgZmxvdy4iKQogICAgcHJpdmF0ZSBib29sZWFuIGRpc2FibGVSZW5ld2FsU3RhcnREYXRlOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzRGlzYWJsZVJlbmV3YWxTdGFydERhdGUoKSB7CiAgICAgICAgcmV0dXJuIGRpc2FibGVSZW5ld2FsU3RhcnREYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERpc2FibGVSZW5ld2FsU3RhcnREYXRlKGJvb2xlYW4gZGlzYWJsZVJlbmV3YWxTdGFydERhdGUpIHsKICAgICAgICB0aGlzLmRpc2FibGVSZW5ld2FsU3RhcnREYXRlID0gZGlzYWJsZVJlbmV3YWxTdGFydERhdGU7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2l0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
