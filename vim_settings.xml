@@ -78,11 +78,11 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1506528502593">
         <mark key="[" line="732" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1506629056953">
-        <mark key="[" line="126" column="56" />
-        <mark key="]" line="126" column="56" />
-        <mark key="." line="126" column="56" />
-        <mark key="^" line="126" column="56" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1506711767329">
+        <mark key="[" line="123" column="44" />
+        <mark key="]" line="123" column="45" />
+        <mark key="." line="123" column="45" />
+        <mark key="^" line="123" column="45" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/FeedResultsList.java" timestamp="1495569477616">
         <mark key="[" line="140" column="22" />
@@ -213,11 +213,11 @@
       <jump line="164" column="47" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPQo=</text>
+      <register name="&quot;" type="4">
+        <text>instanceof</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>instanceof</text>
       </register>
       <register name="/" type="4">
         <text>disable</text>
