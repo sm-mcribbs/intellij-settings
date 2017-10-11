@@ -74,7 +74,9 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" timestamp="1507735086288" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" timestamp="1507735856036">
+        <mark key="'" line="79" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1507662256193">
         <mark key="[" line="732" column="47" />
       </file>
@@ -205,6 +207,14 @@
       <jump line="764" column="51" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
       <jump line="765" column="39" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
       <jump line="164" column="47" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
+      <jump line="25" column="57" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
+      <jump line="61" column="41" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
+      <jump line="63" column="58" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
+      <jump line="64" column="38" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
+      <jump line="65" column="57" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
+      <jump line="76" column="57" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
+      <jump line="78" column="33" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
+      <jump line="79" column="48" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -214,7 +224,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>disable</text>
+        <text>Cookie</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGUgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
@@ -251,9 +261,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disable</last-search>
+      <last-search>Cookie</last-search>
       <last-offset />
-      <last-pattern>disable</last-pattern>
+      <last-pattern>Cookie</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -274,6 +284,8 @@
         <entry>zuora</entry>
         <entry>GlobalSite</entry>
         <entry>disable</entry>
+        <entry>cookie</entry>
+        <entry>Cookie</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
