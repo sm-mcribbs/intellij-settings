@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/ExternalAuthApiAuthenticate.java" timestamp="1507662451921" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -75,6 +74,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" timestamp="1507735086288" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1507662256193">
         <mark key="[" line="732" column="47" />
       </file>
@@ -115,7 +115,6 @@
         <mark key="." line="180" column="16" />
         <mark key="^" line="180" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1507644218190" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="98" column="0" />
