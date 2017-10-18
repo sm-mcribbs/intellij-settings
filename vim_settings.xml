@@ -110,11 +110,12 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1508269139028">
-        <mark key="[" line="180" column="16" />
-        <mark key="]" line="180" column="16" />
-        <mark key="." line="180" column="16" />
-        <mark key="^" line="180" column="16" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1508340610401">
+        <mark key="'" line="279" column="45" />
+        <mark key="[" line="279" column="29" />
+        <mark key="]" line="279" column="45" />
+        <mark key="." line="279" column="45" />
+        <mark key="^" line="279" column="45" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
@@ -215,13 +216,14 @@
       <jump line="78" column="33" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
       <jump line="79" column="48" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" />
+      <jump line="279" column="45" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uc291cmNlbWVkaWEudXRpbDsKCmltcG9ydCBjb20ucHNkZGV2LmNtcy5kYi5Db250ZW50OwppbXBvcnQgY29tLnBzZGRldi5jbXMuZGIuU2l0ZTsKaW1wb3J0IGNvbS5wc2RkZXYuZGFyaS5kYi5RdWVyeTsKaW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5tb2RlbC5BYnN0cmFjdEFydGljbGU7CmltcG9ydCBjb20uc291cmNlbWVkaWEudGF4b25vbXkuQWJzdHJhY3RUYWc7CmltcG9ydCBjb20uc291cmNlbWVkaWEudGF4b25vbXkuVGFnT3JnYW5pemF0aW9uOwppbXBvcnQgY29tLnNvdXJjZW1lZGlhLnRheG9ub215LlRhZ2dhYmxlOwoKaW1wb3J0IGphdmEudGltZS5JbnN0YW50OwppbXBvcnQgamF2YS51dGlsLkRhdGU7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCnB1YmxpYyBjbGFzcyBDb2RlIHsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBOTCA9ICIjIyMjIyI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDID0gIiwiOwoKICAgIHB1YmxpYyBzdGF0aWMgT2JqZWN0IG1haW4oKSB0aHJvd3MgVGhyb3dhYmxlIHsKICAgICAgICBTaXRlIHNpdGUgPSBudWxsOwogICAgICAgICAgICAgICAgc2l0ZSA9IHM7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIFF1ZXJ5PFRhZ2dhYmxlPiBxdWVyeSA9IFF1ZXJ5LmZyb20oVGFnZ2FibGUuY2xhc3MpCiAgICAgICAgICAgIC53aGVyZSgiKiBtYXRjaGVzICoiKSAvLyBmb3JjZXMgc29sciwgZm9yIHBlcmZvcm1hbmNlCiAgICAgICAgICAgIC5hbmQoU2l0ZS5PV05FUl9GSUVMRCArICIgPSA/Iiwgc2l0ZSkKICAgICAgICAgICAgLmFuZChDb250ZW50LlBVQkxJU0hfREFURV9GSUVMRCArICIgPj0gPyIsIERhdGUuZnJvbShJbnN0YW50LnBhcnNlKCIyMDE3LTA0LTA1VDAwOjAwOjAwLjAwWiIpKS5nZXRUaW1lKCkpOwogICAgICAgIExpc3Q8VGFnZ2FibGU+IGNvbnRlbnQgPSBxdWVyeS5zZWxlY3RBbGwoKTsKCiAgICAgICAgU3RyaW5nQnVpbGRlciBlID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKCiAgICAgICAgZm9yIChUYWdnYWJsZSBjIDogY29udGVudCkgewogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIGN1c2lwcyA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgIGZvciAoQWJzdHJhY3RUYWcgdGFnIDogYy5nZXRBbGxUYWdzKCkpIHsKICAgICAgICAgICAgICAgIGlmICh0YWcgaW5zdGFuY2VvZiBUYWdPcmdhbml6YXRpb24pIHsKICAgICAgICAgICAgICAgICAgICAvL2N1c2lwcy5hcHBlbmQodGFnLmdldE5hbWUoKSkuYXBwZW5kKEMpOwogICAgICAgICAgICAgICAgICAgIGN1c2lwcy5hcHBlbmQoKChUYWdPcmdhbml6YXRpb24pIHRhZykuZ2V0Q3VzaXAoKSkuYXBwZW5kKEMpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChjdXNpcHMubGVuZ3RoKCkgPiAwKSB7CiAgICAgICAgICAgICAgICBpZiAoYyBpbnN0YW5jZW9mIEFic3RyYWN0QXJ0aWNsZSkgewogICAgICAgICAgICAgICAgICAgIGUuYXBwZW5kKCgoQWJzdHJhY3RBcnRpY2xlKSBjKS5nZXRJZCgpKS5hcHBlbmQoQyk7CiAgICAgICAgICAgICAgICAgICAgZS5hcHBlbmQoY3VzaXBzLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgIGUuYXBwZW5kKE5MKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gZTsKICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>free</text>
