@@ -38,7 +38,8 @@
         <mark key="." line="170" column="19" />
         <mark key="^" line="170" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" timestamp="1505338415884">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" timestamp="1511812491467">
+        <mark key="'" line="58" column="46" />
         <mark key="[" line="250" column="29" />
         <mark key="]" line="250" column="29" />
         <mark key="." line="250" column="29" />
@@ -99,11 +100,16 @@
         <mark key="." line="262" column="50" />
         <mark key="^" line="262" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMap.java" timestamp="1511809530182">
-        <mark key="[" line="58" column="7" />
-        <mark key="]" line="58" column="7" />
-        <mark key="^" line="58" column="15" />
-        <mark key="." line="58" column="7" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMap.java" timestamp="1511814392613">
+        <mark key="[" line="1004" column="34" />
+        <mark key="]" line="1004" column="34" />
+        <mark key="^" line="826" column="13" />
+        <mark key="." line="1004" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDaily.java" timestamp="1511811134153">
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1488993887590">
         <mark key="[" line="23" column="64" />
@@ -146,7 +152,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1511809966442">
+      <file name="/fragment.java" timestamp="1511814294954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1492627402632">
@@ -247,16 +253,18 @@
       <jump line="425" column="25" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" />
       <jump line="547" column="17" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" />
       <jump line="588" column="29" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" />
+      <jump line="58" column="46" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>saveEventually</text>
+        <text>Config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuZGFyaS5kYi5SZWNvcmQ7Cg==</text>
@@ -293,9 +301,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveEventually</last-search>
+      <last-search>Config</last-search>
       <last-offset />
-      <last-pattern>saveEventually</last-pattern>
+      <last-pattern>Config</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -321,6 +329,7 @@
         <entry>FREE</entry>
         <entry>free</entry>
         <entry>saveEventually</entry>
+        <entry>Config</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
