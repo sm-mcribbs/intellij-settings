@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/RssFeedFilter.java" timestamp="1515773464543" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -27,6 +26,7 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Tweet.java" timestamp="1516294144015" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1509133024125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -39,16 +39,11 @@
         <mark key="." line="170" column="19" />
         <mark key="^" line="170" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/FeedPageViewCreator.java" timestamp="1515773163290" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" timestamp="1511812491467">
         <mark key="'" line="58" column="46" />
         <mark key="[" line="250" column="29" />
         <mark key="]" line="250" column="29" />
         <mark key="." line="250" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/LyticsApiClient.java" timestamp="1505926704392">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
         <mark key="[" line="8" column="0" />
@@ -67,7 +62,6 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SlideshowGalleryViewCreator.java" timestamp="1501617530264">
         <mark key="'" line="115" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/taxonomy/FeedPage.java" timestamp="1515773546494" />
       <file name="/Dummy.txt" timestamp="1508879572159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -135,7 +129,7 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="213" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/AbstractFeedResultsList.java" timestamp="1515773584743" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/TweetModification.java" timestamp="1516294201232" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="98" column="0" />
