@@ -26,7 +26,6 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Tweet.java" timestamp="1516294144015" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1509133024125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -90,12 +89,12 @@
         <mark key="^" line="127" column="31" />
         <mark key="." line="127" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" timestamp="1506434803385">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" timestamp="1516294937980">
         <mark key="'" line="164" column="47" />
-        <mark key="[" line="262" column="43" />
-        <mark key="]" line="262" column="50" />
-        <mark key="." line="262" column="50" />
-        <mark key="^" line="262" column="50" />
+        <mark key="[" line="340" column="26" />
+        <mark key="]" line="340" column="32" />
+        <mark key="." line="340" column="32" />
+        <mark key="^" line="340" column="32" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDaily.java" timestamp="1511888561025">
         <mark key="'" line="234" column="0" />
@@ -129,7 +128,6 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="213" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/TweetModification.java" timestamp="1516294201232" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="98" column="0" />
@@ -264,7 +262,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>Query</text>
+        <text>gtmHead</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuZGFyaS5kYi5SZWNvcmQ7Cg==</text>
@@ -301,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Query</last-search>
+      <last-search>gtmHead</last-search>
       <last-offset />
-      <last-pattern>Query</last-pattern>
+      <last-pattern>gtmHead</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yt_</entry>
         <entry>fb_</entry>
         <entry>gp_</entry>
         <entry>facebook</entry>
@@ -331,6 +328,7 @@
         <entry>saveEventually</entry>
         <entry>Config</entry>
         <entry>Query</entry>
+        <entry>gtmHead</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
