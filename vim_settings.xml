@@ -77,6 +77,9 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1507662256193">
         <mark key="[" line="732" column="47" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" timestamp="1516388067635">
+        <mark key="'" line="45" column="32" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1515773785743">
         <mark key="[" line="123" column="24" />
         <mark key="]" line="123" column="26" />
@@ -155,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1104" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
-      <jump line="1116" column="0" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
       <jump line="1127" column="8" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
       <jump line="1131" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
       <jump line="1141" column="11" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
@@ -253,6 +254,10 @@
       <jump line="215" column="23" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDaily.java" />
       <jump line="218" column="26" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDaily.java" />
       <jump line="234" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDaily.java" />
+      <jump line="518" column="8" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
+      <jump line="768" column="70" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
+      <jump line="793" column="29" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
+      <jump line="45" column="32" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -262,7 +267,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>gtmHead</text>
+        <text>LOGGER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5wc2RkZXYuZGFyaS5kYi5SZWNvcmQ7Cg==</text>
@@ -299,9 +304,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gtmHead</last-search>
+      <last-search>LOGGER</last-search>
       <last-offset />
-      <last-pattern>gtmHead</last-pattern>
+      <last-pattern>LOGGER</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -309,9 +314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fb_</entry>
-        <entry>gp_</entry>
-        <entry>facebook</entry>
         <entry>twitter</entry>
         <entry>.append(&quot;\n&quot;)</entry>
         <entry>site</entry>
@@ -329,6 +331,9 @@
         <entry>Config</entry>
         <entry>Query</entry>
         <entry>gtmHead</entry>
+        <entry>log</entry>
+        <entry>INFO</entry>
+        <entry>LOGGER</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
