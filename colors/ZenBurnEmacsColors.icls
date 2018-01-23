@@ -1,4 +1,5 @@
 <scheme name="ZenBurnEmacsColors" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="SauceCodePro Nerd Font" />
@@ -44,7 +45,7 @@
     <option name="SELECTION_BACKGROUND" value="214283" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555555" />
-    <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES" value="a6a6a6" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
