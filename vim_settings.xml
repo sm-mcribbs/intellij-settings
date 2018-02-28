@@ -96,6 +96,11 @@
         <mark key="^" line="127" column="31" />
         <mark key="." line="127" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/corp/viewmodel/CorporateHeaderViewModel.java" timestamp="1517939724000">
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="71" column="38" />
+        <mark key="." line="71" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" timestamp="1516294937980">
         <mark key="'" line="164" column="47" />
         <mark key="[" line="340" column="26" />
@@ -265,10 +270,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>renewalTerm</text>
