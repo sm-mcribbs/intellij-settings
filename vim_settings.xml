@@ -147,8 +147,12 @@
         <mark key="^" line="88" column="12" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1507318074047">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1521404462873">
         <mark key="'" line="165" column="13" />
+        <mark key="[" line="239" column="6" />
+        <mark key="]" line="239" column="5" />
+        <mark key="^" line="239" column="5" />
+        <mark key="." line="239" column="5" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDailyTask.java" timestamp="1511809456355">
         <mark key="[" line="2" column="25" />
