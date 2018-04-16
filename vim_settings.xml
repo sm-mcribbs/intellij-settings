@@ -61,9 +61,6 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SlideshowGalleryViewCreator.java" timestamp="1501617530264">
         <mark key="'" line="115" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/render/components/subscription/SubscriptionFlow.hbs" timestamp="1523548486032" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/viewmodel/RegistrationViewModel.java" timestamp="1523547999551" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/PaywallPage.java" timestamp="1523547457651" />
       <file name="/Dummy.txt" timestamp="1523547647667">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -130,8 +127,7 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/target/generated-sources/styleguide/com/sourcemedia/view/render/components/subscription/SubscriptionFlowView.java" timestamp="1523548503812" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1508345510511">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1523900787463">
         <mark key="'" line="588" column="29" />
         <mark key="[" line="218" column="29" />
         <mark key="]" line="218" column="29" />
