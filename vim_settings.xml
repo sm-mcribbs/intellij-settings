@@ -108,7 +108,6 @@
         <mark key="." line="340" column="32" />
         <mark key="^" line="340" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/AdViewUtils.java" timestamp="1528724630254" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDaily.java" timestamp="1511888561025">
         <mark key="'" line="234" column="0" />
         <mark key="[" line="233" column="30" />
@@ -128,6 +127,7 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/drm/AccessLicenseable.java" timestamp="1530805199401" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1523900828251">
         <mark key="'" line="588" column="29" />
         <mark key="[" line="218" column="29" />
@@ -141,7 +141,7 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="213" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/taxonomy/Taggable.java" timestamp="1528724429673" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/BrightcoveVideo.java" timestamp="1530805032578" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="98" column="0" />
@@ -162,6 +162,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Article.java" timestamp="1530805138028" />
       <file name="/fragment.java" timestamp="1511887526519">
         <mark key="[" line="0" column="0" />
       </file>
