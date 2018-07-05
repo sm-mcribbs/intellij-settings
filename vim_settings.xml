@@ -44,11 +44,11 @@
         <mark key="]" line="250" column="29" />
         <mark key="." line="250" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530816097186">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530818845154">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
         <mark key="[" line="8" column="0" />
@@ -67,10 +67,11 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SlideshowGalleryViewCreator.java" timestamp="1501617530264">
         <mark key="'" line="115" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/Main.java" timestamp="1530816311113">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/Main.java" timestamp="1530819118858">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1523547647667">
         <mark key="[" line="0" column="0" />
@@ -288,7 +289,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>renewalTerm</text>
@@ -300,28 +301,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaG9sZCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YWNrUG9pbnRlciA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigiU3RhY2sgaXMgZW1wdHkiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaG9sZCA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigiU3RhY2sgaXMgZW1wdHkiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyBFeHBlcmltZW50YWwgamF2YXNjcmlwdCB0b2dnbGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
