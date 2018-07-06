@@ -61,12 +61,12 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicQueue.java" timestamp="1530901649292">
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicQueue.java" timestamp="1530903807132">
         <mark key="'" line="125" column="16" />
-        <mark key="[" line="101" column="31" />
-        <mark key="]" line="101" column="31" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
         <mark key="^" line="101" column="31" />
-        <mark key="." line="101" column="31" />
+        <mark key="." line="40" column="38" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicStack.java" timestamp="1530893216637">
         <mark key="[" line="4" column="17" />
@@ -183,7 +183,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1530901270647">
+      <file name="/fragment.java" timestamp="1530903639404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1492627402632">
@@ -192,11 +192,11 @@
         <mark key="^" line="64" column="42" />
         <mark key="." line="64" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/QueueTests.java" timestamp="1530901811032">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="22" column="28" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/QueueTests.java" timestamp="1530904026159">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="50" column="33" />
+        <mark key="." line="50" column="33" />
+        <mark key="^" line="50" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3VuZCA9IHEuY29udGFpbnMoNSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>renewalTerm</text>
@@ -315,31 +315,31 @@
         <text encoding="base64">ICAgICAgICBmb3VuZCA9IHEuY29udGFpbnMoNSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXRWYWwgPSBxLmRlUXVldWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxLmVuUXVldWUoMSk7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gbm90aGluZyByZXRWYWwgaXMgYWxyZWFkeSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBxLmVuUXVldWUoMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gbm90aGluZyByZXRWYWwgaXMgYWxyZWFkeSBudWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFNub3diaXJkTGlmdEFwcCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
