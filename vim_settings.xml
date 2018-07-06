@@ -20,6 +20,13 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/TrainLinkedListApp.java" timestamp="1530912599413">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="133" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1488832385170">
         <mark key="[" line="56" column="50" />
         <mark key="]" line="56" column="24" />
@@ -37,12 +44,6 @@
         <mark key="]" line="170" column="19" />
         <mark key="." line="170" column="19" />
         <mark key="^" line="170" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" timestamp="1511812491467">
-        <mark key="'" line="58" column="46" />
-        <mark key="[" line="250" column="29" />
-        <mark key="]" line="250" column="29" />
-        <mark key="." line="250" column="29" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530818845154">
         <mark key="[" line="40" column="0" />
@@ -210,10 +211,15 @@
         <mark key="." line="50" column="33" />
         <mark key="^" line="50" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicLinkedList.java" timestamp="1530913121975">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="59" column="40" />
+        <mark key="^" line="59" column="40" />
+        <mark key="." line="59" column="40" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
-      <jump line="383" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="407" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="415" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="423" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
@@ -312,46 +318,48 @@
       <jump line="589" column="98" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
       <jump line="126" column="16" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicQueue.java" />
       <jump line="126" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/SnowbirdLiftApp.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicLinkedList.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/TrainLinkedListApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>uffer</text>
       </register>
       <register name="/" type="4">
         <text>renewalTerm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3VuZCA9IHEuY29udGFpbnMoNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGVhZCA9PSBudWxsKSB7IC8vZW1wdHkgbGlzdAogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJFbXB0eSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlPEdhZDJDaGFpcj4gZ2FkMkxpZnQgPSBuZXcgQmFzaWNRdWV1ZTxHYWQyQ2hhaXI+KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXRWYWwgPSBxLmRlUXVldWUoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRyYWluTGlua2VkTGlzdEFwcCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxLmVuUXVldWUoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb2RlIGN1cnJlbnQgPSBoZWFkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gbm90aGluZyByZXRWYWwgaXMgYWxyZWFkeSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
