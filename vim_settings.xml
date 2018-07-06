@@ -169,11 +169,11 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="213" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListQueue.java" timestamp="1530906399874">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListQueue.java" timestamp="1530907178815">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
@@ -315,7 +315,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlPEdhZDJDaGFpcj4gZ2FkMkxpZnQgPSBuZXcgQmFzaWNRdWV1ZTxHYWQyQ2hhaXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -327,31 +327,31 @@
         <text encoding="base64">ICAgICAgICBmb3VuZCA9IHEuY29udGFpbnMoNSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlPEdhZDJDaGFpcj4gZ2FkMkxpZnQgPSBuZXcgQmFzaWNRdWV1ZTxHYWQyQ2hhaXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFF1ZXVlPEdhZDJDaGFpcj4gZ2FkMkxpZnQgPSBuZXcgQmFzaWNRdWV1ZTxHYWQyQ2hhaXI+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXRWYWwgPSBxLmRlUXVldWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICByZXRWYWwgPSBxLmRlUXVldWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxLmVuUXVldWUoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kOwo=</text>
+        <text encoding="base64">ICAgICAgICBxLmVuUXVldWUoMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gbm90aGluZyByZXRWYWwgaXMgYWxyZWFkeSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gbm90aGluZyByZXRWYWwgaXMgYWxyZWFkeSBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
