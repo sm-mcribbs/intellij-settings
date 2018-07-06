@@ -3,35 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="34" column="56" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="34" column="56" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DataArticle.java" timestamp="1500997210745">
-        <mark key="[" line="96" column="20" />
-        <mark key="]" line="96" column="20" />
-        <mark key="." line="96" column="20" />
-        <mark key="^" line="96" column="18" />
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/TrainLinkedListApp.java" timestamp="1530912599413">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="133" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1488832385170">
-        <mark key="[" line="56" column="50" />
-        <mark key="]" line="56" column="24" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="56" column="24" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/Main.java" timestamp="1530851254107">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1509133024125">
         <mark key="[" line="0" column="0" />
@@ -39,84 +26,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1492462127160">
-        <mark key="[" line="170" column="15" />
-        <mark key="]" line="170" column="19" />
-        <mark key="." line="170" column="19" />
-        <mark key="^" line="170" column="19" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1492627402632">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="64" column="42" />
+        <mark key="^" line="64" column="42" />
+        <mark key="." line="64" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530818845154">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1488832111617">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicQueue.java" timestamp="1530905670780">
-        <mark key="'" line="125" column="16" />
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicStack.java" timestamp="1530893216637">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/Main.java" timestamp="1530819118858">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523547647667">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1465251583668">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1507662256193">
-        <mark key="[" line="732" column="47" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" timestamp="1516994204310">
-        <mark key="'" line="589" column="98" />
-        <mark key="[" line="571" column="45" />
-        <mark key="]" line="566" column="53" />
-        <mark key="." line="571" column="51" />
-        <mark key="^" line="566" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1515773785743">
-        <mark key="[" line="123" column="24" />
-        <mark key="]" line="123" column="26" />
-        <mark key="." line="123" column="26" />
-        <mark key="^" line="123" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/FeedResultsList.java" timestamp="1515773685955">
-        <mark key="[" line="127" column="22" />
-        <mark key="]" line="127" column="31" />
-        <mark key="^" line="127" column="31" />
-        <mark key="." line="127" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/corp/viewmodel/CorporateHeaderViewModel.java" timestamp="1517939724000">
-        <mark key="[" line="71" column="38" />
-        <mark key="]" line="71" column="38" />
-        <mark key="." line="71" column="38" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
+        <mark key="'" line="60" column="16" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="88" column="12" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" timestamp="1516294937980">
         <mark key="'" line="164" column="47" />
@@ -125,8 +46,49 @@
         <mark key="." line="340" column="32" />
         <mark key="^" line="340" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/Queue.java" timestamp="1530905650942">
-        <mark key="[" line="2" column="27" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1488993887590">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1526563197565">
+        <mark key="'" line="165" column="13" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="^" line="239" column="0" />
+        <mark key="." line="239" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1492462127160">
+        <mark key="[" line="170" column="15" />
+        <mark key="]" line="170" column="19" />
+        <mark key="." line="170" column="19" />
+        <mark key="^" line="170" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/model/ConferenceSession.java" timestamp="1493241637111">
+        <mark key="[" line="162" column="69" />
+        <mark key="]" line="162" column="70" />
+        <mark key="^" line="162" column="70" />
+        <mark key="." line="162" column="70" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/AbstractSiteMap.java" timestamp="1511805549700">
+        <mark key="[" line="213" column="8" />
+        <mark key="]" line="213" column="8" />
+        <mark key="^" line="210" column="16" />
+        <mark key="." line="213" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/CardStackApp.java" timestamp="1530851361485">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/Stack.java" timestamp="1530853084289">
+        <mark key="[" line="6" column="21" />
         <mark key="]" line="7" column="14" />
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
@@ -138,24 +100,35 @@
         <mark key="^" line="233" column="34" />
         <mark key="." line="233" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/SnowbirdLiftApp.java" timestamp="1530905800253">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="22" column="85" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListStack.java" timestamp="1530853110309">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" timestamp="1488993887590">
-        <mark key="[" line="23" column="64" />
-        <mark key="]" line="23" column="62" />
-        <mark key="." line="23" column="62" />
-        <mark key="^" line="23" column="62" />
+      <file name="/Dummy.txt" timestamp="1523547647667">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/model/ConferenceSession.java" timestamp="1493241637111">
-        <mark key="[" line="162" column="69" />
-        <mark key="]" line="162" column="70" />
-        <mark key="^" line="162" column="70" />
-        <mark key="." line="162" column="70" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/CardStackApp.java" timestamp="1530853072792">
+        <mark key="'" line="106" column="32" />
+        <mark key="[" line="97" column="31" />
+        <mark key="]" line="97" column="35" />
+        <mark key="." line="97" column="35" />
+        <mark key="^" line="97" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1465251583668">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" timestamp="1516994204310">
+        <mark key="'" line="589" column="98" />
+        <mark key="[" line="571" column="45" />
+        <mark key="]" line="566" column="53" />
+        <mark key="." line="571" column="51" />
+        <mark key="^" line="566" column="53" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1523900828251">
         <mark key="'" line="588" column="29" />
@@ -164,31 +137,29 @@
         <mark key="." line="218" column="29" />
         <mark key="^" line="279" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/AbstractSiteMap.java" timestamp="1511805549700">
-        <mark key="[" line="213" column="8" />
-        <mark key="]" line="213" column="8" />
-        <mark key="^" line="210" column="16" />
-        <mark key="." line="213" column="16" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1488832385170">
+        <mark key="[" line="56" column="50" />
+        <mark key="]" line="56" column="24" />
+        <mark key="^" line="56" column="24" />
+        <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListQueue.java" timestamp="1530907178815">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="2" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/FeedResultsList.java" timestamp="1515773685955">
+        <mark key="[" line="127" column="22" />
+        <mark key="]" line="127" column="31" />
+        <mark key="^" line="127" column="31" />
+        <mark key="." line="127" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
-        <mark key="'" line="60" column="16" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="88" column="12" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractArticle.java" timestamp="1526563197565">
-        <mark key="'" line="165" column="13" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="^" line="239" column="0" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1488832111617">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/SiteMapDailyTask.java" timestamp="1511809456355">
         <mark key="[" line="2" column="25" />
@@ -196,30 +167,45 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1530903639404">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1515773785743">
+        <mark key="[" line="123" column="24" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="123" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicStack.java" timestamp="1530852104951">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/corp/viewmodel/CorporateHeaderViewModel.java" timestamp="1517939724000">
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="71" column="38" />
+        <mark key="." line="71" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DataArticle.java" timestamp="1500997210745">
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="96" column="20" />
+        <mark key="." line="96" column="20" />
+        <mark key="^" line="96" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1507662256193">
+        <mark key="[" line="732" column="47" />
+      </file>
+      <file name="/fragment.java" timestamp="1530851566297">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1492627402632">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="64" column="42" />
-        <mark key="^" line="64" column="42" />
-        <mark key="." line="64" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/QueueTests.java" timestamp="1530905845895">
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="50" column="33" />
-        <mark key="." line="50" column="33" />
-        <mark key="^" line="50" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicLinkedList.java" timestamp="1530913121975">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="59" column="37" />
-        <mark key="]" line="59" column="40" />
-        <mark key="^" line="59" column="40" />
-        <mark key="." line="59" column="40" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/ExternalArticleIngestionTask.java" timestamp="1511812491467">
+        <mark key="'" line="58" column="46" />
+        <mark key="[" line="250" column="29" />
+        <mark key="]" line="250" column="29" />
+        <mark key="." line="250" column="29" />
       </file>
     </filemarks>
     <jumps>
+      <jump line="375" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
+      <jump line="383" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="407" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="415" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="423" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
@@ -316,50 +302,48 @@
       <jump line="574" column="90" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
       <jump line="67" column="32" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
       <jump line="589" column="98" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" />
-      <jump line="126" column="16" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicQueue.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/SnowbirdLiftApp.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicLinkedList.java" />
-      <jump line="136" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/TrainLinkedListApp.java" />
+      <jump line="101" column="35" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/CardStackApp.java" />
+      <jump line="106" column="32" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/CardStackApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>stack</text>
       </register>
       <register name="-" type="4">
-        <text>uffer</text>
+        <text>stack</text>
       </register>
       <register name="/" type="4">
         <text>renewalTerm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaGVhZCA9PSBudWxsKSB7IC8vZW1wdHkgbGlzdAogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJFbXB0eSIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc3AgPSBkYXRhLnNpemUoKSAtIDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRyYWluTGlua2VkTGlzdEFwcCB7Cg==</text>
+        <text encoding="base64">cHViZGRsaWMgY2xhc3MgQ2FyZFN0YWNrQXBwIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlIGN1cnJlbnQgPSBoZWFkOwo=</text>
+        <text encoding="base64">ICAgICAgICBteVN0YWNrLnB1c2goNyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSgpIHsK</text>
+        <text encoding="base64">ICAgICAgICBteVN0YWNrLnB1c2goNik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXRWYWwgPSBteVN0YWNrLnBvcCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -413,10 +397,10 @@
         <entry>sp</entry>
         <entry>vsp</entry>
         <entry>q!</entry>
+        <entry>W</entry>
         <entry>%s/.append(&quot;\n&quot;)/.append(&quot;#####&quot;)/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -425,9 +409,6 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
