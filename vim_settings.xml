@@ -100,11 +100,11 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531285322488">
-        <mark key="[" line="76" column="42" />
-        <mark key="]" line="76" column="42" />
-        <mark key="." line="76" column="42" />
-        <mark key="^" line="76" column="42" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531310802071">
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="79" column="25" />
+        <mark key="." line="79" column="25" />
+        <mark key="^" line="79" column="23" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/ContactManagerApp.java" timestamp="1531285104566">
         <mark key="'" line="108" column="0" />
@@ -327,10 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>renewalTerm</text>
