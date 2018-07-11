@@ -15,11 +15,12 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531331586062">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531332677264">
+        <mark key="'" line="103" column="28" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="40" />
+        <mark key="^" line="89" column="22" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
@@ -57,11 +58,11 @@
         <mark key="^" line="42" column="101" />
         <mark key="." line="42" column="101" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" timestamp="1531331014909">
-        <mark key="[" line="127" column="36" />
-        <mark key="]" line="127" column="40" />
-        <mark key="^" line="127" column="40" />
-        <mark key="." line="127" column="40" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" timestamp="1531332816091">
+        <mark key="[" line="136" column="33" />
+        <mark key="]" line="137" column="11" />
+        <mark key="^" line="137" column="11" />
+        <mark key="." line="137" column="11" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
@@ -236,14 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="24" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" />
-      <jump line="91" column="3" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
-      <jump line="34" column="8" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
-      <jump line="33" column="11" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/styleguide/pages/cequiz/index.json" />
-      <jump line="435" column="33" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" />
-      <jump line="437" column="51" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/FeedItemViewCreator.java" />
-      <jump line="172" column="45" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" />
-      <jump line="256" column="47" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
       <jump line="266" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
       <jump line="23" column="26" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" />
@@ -336,55 +329,63 @@
       <jump line="187" column="25" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BinaryTree.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BinaryTree.java" />
+      <jump line="41" column="16" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="106" column="8" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="14" column="20" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="29" column="22" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="39" column="22" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="88" column="24" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="95" column="28" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="103" column="28" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>depth</text>
+        <text>setDepth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50LnNldERlcHRoKHJlcGxhY2VtZW50LmdldFBhcmVudCgpLmdldERlcHRoKCkgKyAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50LnNldEhlaWdodCgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyB1cGRhdGUgYWxsIGNoaWxkcmVuJ3MgZGVwdGhzCg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZW1lbnQuc2V0RGVwdGgoY3VycmVudC5nZXREZXB0aCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICByb290ID0gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBYnN0cmFjdEJpbmFyeVRyZWUoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZW1lbnQuc2V0RGVwdGgoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdCAhPSBudWxsID8gaW50IGxlZnRIZWlnaHQgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhyb3dpbmcgaXQgYXdheSBzbyBubyBuZWVkIHRvIHNldCBkZXB0aAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVwbGFjZW1lbnQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyB1cGRhdGUgYWxsIGNoaWxkcmVuJ3MgZGVwdGhzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>depth</last-search>
+      <last-search>setDepth</last-search>
       <last-offset />
-      <last-pattern>depth</last-pattern>
+      <last-pattern>setDepth</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -392,7 +393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Builder</entry>
         <entry>nitf</entry>
         <entry>zuora</entry>
         <entry>GlobalSite</entry>
@@ -412,6 +412,7 @@
         <entry>RenewalTerm</entry>
         <entry>renewalTerm</entry>
         <entry>depth</entry>
+        <entry>setDepth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
