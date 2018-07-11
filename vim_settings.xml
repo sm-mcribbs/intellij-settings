@@ -70,11 +70,11 @@
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AVLTree.java" timestamp="1531337526891">
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="7" />
-        <mark key="^" line="58" column="7" />
-        <mark key="." line="58" column="7" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AVLTree.java" timestamp="1531338427403">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
         <mark key="[" line="8" column="0" />
@@ -346,43 +346,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHN0YXR1cyA9IHBhcmVudC5kZWxldGUoaXRlbSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>ewN</text>
       </register>
       <register name="/" type="4">
         <text>setDepth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByb290LnJlY2FsY0hlaWdodHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFsYW5jZSA+IDEgJiYgaXRlbS5jb21wYXJlVG8obmV3Tm9kZS5nZXRMZWZ0KCkuZ2V0SXRlbSgpKSA8IDApIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHN0YXR1cyA9IHBhcmVudC5kZWxldGUoaXRlbSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByb290LnJlY2FsY0hlaWdodHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9MZWZ0IExlZnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zZXJ0KHRoaXMucm9vdCwgbmV3Tm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByb290LnJlY2FsY0hlaWdodHMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaXplKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zZXJ0KHRoaXMucm9vdCwgbmV3Tm9kZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTZXQgcm9vdDogIiArIG5ld05vZGUuZ2V0SXRlbSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Tm9kZS5zZXREZXB0aCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaXplKys7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yb290ID0gbmV3Tm9kZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTZXQgcm9vdDogIiArIG5ld05vZGUuZ2V0SXRlbSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
