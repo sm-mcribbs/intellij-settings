@@ -15,10 +15,12 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531328604117">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="56" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531329686231">
+        <mark key="'" line="187" column="25" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
@@ -42,6 +44,12 @@
         <mark key="]" line="170" column="19" />
         <mark key="." line="170" column="19" />
         <mark key="^" line="170" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BinaryTree.java" timestamp="1531329701435">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="1" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicHashTable.java" timestamp="1531172857621">
         <mark key="[" line="41" column="34" />
@@ -222,11 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
-      <jump line="415" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
-      <jump line="423" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
-      <jump line="50" column="41" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/functions.php" />
-      <jump line="55" column="1" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
       <jump line="79" column="15" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
       <jump line="73" column="11" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
       <jump line="216" column="24" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" />
@@ -322,55 +325,60 @@
       <jump line="106" column="32" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/CardStackApp.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/MotorcycleOilChangeApp.java" />
       <jump line="110" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/ContactManagerApp.java" />
+      <jump line="135" column="20" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="141" column="12" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="183" column="19" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="186" column="33" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="187" column="25" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkLmdldFBhcmVudCgpLnNldExlZnQoY2hpbGQuZ2V0UmlnaHQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>renewalTerm</text>
+        <text>depth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcGxhY2VtZW50ICE9IG51bGwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkLmdldFBhcmVudCgpLnNldExlZnQoY2hpbGQuZ2V0UmlnaHQoKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQuZ2V0UGFyZW50KCkuc2V0TGVmdChjaGlsZC5nZXRSaWdodCgpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkLmdldFBhcmVudCgpLnNldExlZnQoY2hpbGQuZ2V0UmlnaHQoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQuZ2V0UmlnaHQoKS5zZXRQYXJlbnQoY2hpbGQuZ2V0UGFyZW50KCkpOwogICAgICAgICAgICBjaGlsZC5nZXRQYXJlbnQoKS5zZXRMZWZ0KGNoaWxkLmdldFJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0VmFsLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQuZ2V0TGVmdCgpLnNldFBhcmVudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQuZ2V0UGFyZW50KCkuc2V0UmlnaHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udGFjdHMudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udGFjdHMudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0VmFsLmFwcGVuZCgibnVsbCIgKyBudWxsY291bnQrKyArICI7Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>renewalTerm</last-search>
+      <last-search>depth</last-search>
       <last-offset />
-      <last-pattern>renewalTerm</last-pattern>
+      <last-pattern>depth</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>final</entry>
         <entry>Builder</entry>
         <entry>nitf</entry>
         <entry>zuora</entry>
@@ -398,6 +405,7 @@
         <entry>term</entry>
         <entry>RenewalTerm</entry>
         <entry>renewalTerm</entry>
+        <entry>depth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
