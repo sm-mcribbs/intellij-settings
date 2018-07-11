@@ -15,12 +15,11 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531329686231">
-        <mark key="'" line="187" column="25" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="2" column="51" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531331586062">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
@@ -45,17 +44,24 @@
         <mark key="." line="170" column="19" />
         <mark key="^" line="170" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BinaryTree.java" timestamp="1531329701435">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="1" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BinaryTree.java" timestamp="1531329852509">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicHashTable.java" timestamp="1531172857621">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="42" column="101" />
         <mark key="^" line="42" column="101" />
         <mark key="." line="42" column="101" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" timestamp="1531331014909">
+        <mark key="[" line="127" column="36" />
+        <mark key="]" line="127" column="40" />
+        <mark key="^" line="127" column="40" />
+        <mark key="." line="127" column="40" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
@@ -219,7 +225,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1530851566297">
+      <file name="/fragment.java" timestamp="1531330611717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1492627402632">
@@ -230,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="15" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
-      <jump line="73" column="11" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
       <jump line="216" column="24" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/site/SourceMediaSite.java" />
       <jump line="91" column="3" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
       <jump line="34" column="8" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/model/CEQuiz.java" />
@@ -330,46 +334,48 @@
       <jump line="183" column="19" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
       <jump line="186" column="33" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
       <jump line="187" column="25" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BinaryTree.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BinaryTree.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>current</text>
       </register>
       <register name="/" type="4">
         <text>depth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcGxhY2VtZW50ICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50LnNldERlcHRoKHJlcGxhY2VtZW50LmdldFBhcmVudCgpLmdldERlcHRoKCkgKyAxKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0VmFsLnRvU3RyaW5nKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyB1cGRhdGUgYWxsIGNoaWxkcmVuJ3MgZGVwdGhzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZW1lbnQuc2V0RGVwdGgoY3VycmVudC5nZXREZXB0aCgpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZW1lbnQuc2V0RGVwdGgoMCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnQgPT0gbnVsbCkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhyb3dpbmcgaXQgYXdheSBzbyBubyBuZWVkIHRvIHNldCBkZXB0aAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0VmFsLmFwcGVuZCgibnVsbCIgKyBudWxsY291bnQrKyArICI7Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVwbGFjZW1lbnQgPT0gbnVsbCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
