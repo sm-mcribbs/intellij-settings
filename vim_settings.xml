@@ -100,11 +100,18 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531197167496">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="15" />
-        <mark key="." line="51" column="15" />
-        <mark key="^" line="51" column="15" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531278568199">
+        <mark key="'" line="115" column="33" />
+        <mark key="[" line="123" column="21" />
+        <mark key="]" line="123" column="31" />
+        <mark key="^" line="123" column="31" />
+        <mark key="." line="123" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/ContactManagerApp.java" timestamp="1531278226142">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListStack.java" timestamp="1530853110309">
         <mark key="[" line="40" column="5" />
@@ -217,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="407" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="415" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
       <jump line="423" column="10" filename="$USER_HOME$/Code/Personal/www.ryotcraft.com/wp-content/themes/zerif-lite/inc/customizer.php" />
@@ -317,46 +323,47 @@
       <jump line="101" column="35" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/CardStackApp.java" />
       <jump line="106" column="32" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/CardStackApp.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/MotorcycleOilChangeApp.java" />
+      <jump line="115" column="33" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>boolean</text>
+        <text>&quot;&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>&quot;&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>renewalTerm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGNvbnRhaW5zKFQgaXRlbSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnQuZ2V0TGVmdCgpICE9IG51bGwpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Blbk5vZGVzLmVuUXVldWUoY3VycmVudC5nZXRMZWZ0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY3VycmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZ2V0Tm9kZShYIGl0ZW0pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlID0gY3VycmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
