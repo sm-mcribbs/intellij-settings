@@ -58,11 +58,12 @@
         <mark key="^" line="42" column="101" />
         <mark key="." line="42" column="101" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" timestamp="1531332816091">
-        <mark key="[" line="136" column="33" />
-        <mark key="]" line="137" column="11" />
-        <mark key="^" line="137" column="11" />
-        <mark key="." line="137" column="11" />
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" timestamp="1531333833476">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="23" />
+        <mark key="^" line="69" column="22" />
+        <mark key="." line="69" column="23" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
@@ -237,8 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/AbstractHeroModuleViewCreator.java" />
-      <jump line="23" column="26" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" />
       <jump line="11" column="20" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" />
       <jump line="2" column="4" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/answer.hbs" />
@@ -337,46 +336,48 @@
       <jump line="88" column="24" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
       <jump line="95" column="28" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
       <jump line="103" column="28" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" />
+      <jump line="45" column="20" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>setDepth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50LnNldEhlaWdodCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LmFwcGVuZCgibnVsbCIpLmFwcGVuZChudWxsY291bnQpLmFwcGVuZCgiW3NoYXBlPXBvaW50XTsiKTsKICAgICAgICAgICAgb3V0LmFwcGVuZChmb3JtYXROb2RlKGN1cnJlbnQpKS5hcHBlbmQoIiAtLSAiKTsKICAgICAgICAgICAgb3V0LmFwcGVuZCgibnVsbCIpLmFwcGVuZChudWxsY291bnQrKykuYXBwZW5kKCI7Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LmFwcGVuZCgibnVsbCIgKyBudWxsY291bnQrKyArICI7Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LmFwcGVuZCgiXCIiICsgY3VycmVudC5nZXRJdGVtKCkudG9TdHJpbmcoKSArICI6IiArIGN1cnJlbnQuZ2V0RGVwdGgoKSArICI6IiArIGN1cnJlbnQuZ2V0UGFyZW50KCkgKyAiXCIgLS0gIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LmFwcGVuZCgibnVsbCIgKyBudWxsY291bnQgKyAiW3NoYXBlPXBvaW50XTsiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb290ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LmFwcGVuZCgiXCIiICsgY3VycmVudC5nZXRSaWdodCgpLmdldEl0ZW0oKS50b1N0cmluZygpICsgIjoiICsgY3VycmVudC5nZXRSaWdodCgpLmdldERlcHRoKCkgKyAiOiIgKyBjdXJyZW50LmdldFJpZ2h0KCkuZ2V0UGFyZW50KCkgKyAiXCI7Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBYnN0cmFjdEJpbmFyeVRyZWUoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LmFwcGVuZChmb3JtYXROb2RlKGN1cnJlbnQpXCIgLS0gIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCAhPSBudWxsID8gaW50IGxlZnRIZWlnaHQgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0SXRlbSgpLnRvU3RyaW5nKCkgKyAiOiIgKyBjdXJyZW50LmdldERlcHRoKCkgKyAiOiIgKyBjdXJyZW50LmdldFBhcmVudCgpICsgIlwiIC0tICIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBub2RlLmdldEl0ZW0oKS50b1N0cmluZygpICsgIjoiICsgayAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyB1cGRhdGUgYWxsIGNoaWxkcmVuJ3MgZGVwdGhzCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
