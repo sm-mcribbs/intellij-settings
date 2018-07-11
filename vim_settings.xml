@@ -57,7 +57,7 @@
         <mark key="^" line="42" column="101" />
         <mark key="." line="42" column="101" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" timestamp="1531335451520">
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AbstractBinaryTree.java" timestamp="1531336247866">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="152" column="67" />
         <mark key="]" line="152" column="71" />
@@ -69,6 +69,12 @@
         <mark key="]" line="66" column="27" />
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/AVLTree.java" timestamp="1531336516946">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="16" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
         <mark key="[" line="8" column="0" />
@@ -226,7 +232,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1531330611717">
+      <file name="/fragment.java" timestamp="1531336260754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1492627402632">
@@ -340,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>setDepth</text>
@@ -352,31 +358,31 @@
         <text encoding="base64">ICAgICAgICByb290LnJlY2FsY0hlaWdodHMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICByb290LnJlY2FsY0hlaWdodHMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5vZGUubGVmdCA9PSBudWxsICYmIG5vZGUucmlnaHQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkLnNldEhlaWdodCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zZXJ0KHRoaXMucm9vdCwgbmV3Tm9kZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50LnNldEhlaWdodCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50LnNldEhlaWdodCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaXplKys7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZW1lbnQuc2V0SGVpZ2h0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTZXQgcm9vdDogIiArIG5ld05vZGUuZ2V0SXRlbSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Tm9kZS5yZWNhbGNIZWlnaHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Tm9kZS5zZXREZXB0aCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb290LnJlY2FsY0hlaWdodHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yb290ID0gbmV3Tm9kZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
