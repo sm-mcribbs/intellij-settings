@@ -15,11 +15,11 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/MapReduce/src/net/mcribbs/ViewCount.java" timestamp="1531451566858">
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="61" />
-        <mark key="^" line="9" column="61" />
-        <mark key="." line="9" column="61" />
+      <file name="$USER_HOME$/Code/Personal/MapReduce/src/net/mcribbs/ViewCount.java" timestamp="1531453821962">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
         <mark key="[" line="8" column="0" />
@@ -82,11 +82,10 @@
         <mark key="." line="23" column="62" />
         <mark key="^" line="23" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/MapReduce/data/input/rawViews.txt" timestamp="1531449976721">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/Code/Personal/MapReduce/data/input/rawViews.txt" timestamp="1531453569321">
+        <mark key="[" line="99" column="19" />
+        <mark key="]" line="99" column="19" />
+        <mark key="." line="99" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
@@ -277,6 +276,7 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/Personal/MapReduce/data/output/part-r-00001" timestamp="1531453611530" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1531421259436">
         <mark key="[" line="732" column="47" />
       </file>
@@ -387,8 +387,8 @@
       <jump line="26" column="35" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/MinHeap.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>InputFormat</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>InputFormat</text>
@@ -400,31 +400,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlSW5wdXRGb3JtYXQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5yZWR1Y2Uoa2V5LCB2YWx1ZXMsIGNvbnRleHQpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">NQlTaHJleWEJSmFuYW5pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">NglKaXR1CVByYWRlZXAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlSW5wdXRGb3JtYXQ7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
