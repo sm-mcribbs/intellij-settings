@@ -58,6 +58,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1536170794045" />
       <file name="$USER_HOME$/Code/Personal/MapReduce/data/input/rawViews.txt" timestamp="1531453569321">
         <mark key="[" line="99" column="19" />
         <mark key="]" line="99" column="19" />
@@ -159,7 +160,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1536162117224" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -404,7 +404,7 @@
         <text>InputFormat</text>
       </register>
       <register name="/" type="4">
-        <text>background</text>
+        <text>offset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
@@ -441,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>background</last-search>
+      <last-search>offset</last-search>
       <last-offset />
-      <last-pattern>background</last-pattern>
+      <last-pattern>offset</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zuora</entry>
         <entry>GlobalSite</entry>
         <entry>disable</entry>
         <entry>cookie</entry>
@@ -471,6 +470,7 @@
         <entry>depth</entry>
         <entry>setDepth</entry>
         <entry>background</entry>
+        <entry>offset</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
