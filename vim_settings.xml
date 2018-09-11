@@ -14,7 +14,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/viewmodel/AbstractViewModel.java" timestamp="1536256720401" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531335183901">
         <mark key="'" line="100" column="28" />
         <mark key="[" line="39" column="0" />
@@ -22,7 +21,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="79" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/view/modules/ConferencePromoColumnTextListModuleViewCreator.java" timestamp="1536252462211" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1509133024125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -60,7 +58,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/view/page/ConferenceHomePageViewCreator.java" timestamp="1536252602034" />
       <file name="$USER_HOME$/Code/Personal/MapReduce/data/input/rawViews.txt" timestamp="1531453569321">
         <mark key="[" line="99" column="19" />
         <mark key="]" line="99" column="19" />
@@ -72,7 +69,6 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/model/ConferenceHomePage.java" timestamp="1536252652347" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1515773785743">
         <mark key="[" line="123" column="24" />
         <mark key="]" line="123" column="26" />
@@ -130,7 +126,6 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/view/page/AbstractConferencePageViewCreator.java" timestamp="1536256716558" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/MotorcycleOilChangeApp.java" timestamp="1531172494520">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="2" column="0" />
@@ -187,7 +182,6 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/model/ConferenceHeader.java" timestamp="1536252657831" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="66" column="27" />
@@ -217,8 +211,6 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/view/page/ConferenceLayoutFullPageViewCreator.java" timestamp="1536252640807" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/bower_components/bsp-carousel/dist/bsp-carousel/slick.js" timestamp="1536257291999" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1536162918536">
         <mark key="'" line="917" column="25" />
       </file>
@@ -267,6 +259,7 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1536604781925" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/CardStackApp.java" timestamp="1530851361485">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
