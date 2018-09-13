@@ -117,6 +117,7 @@
         <mark key="." line="218" column="29" />
         <mark key="^" line="279" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DisplayNameable.java" timestamp="1536854248770" />
       <file name="$USER_HOME$/Code/Personal/MapReduce/src/net/mcribbs/Reduce.java" timestamp="1531450820654">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="16" column="48" />
@@ -188,6 +189,7 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" timestamp="1536853089428">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1536854119554" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="66" column="27" />
@@ -205,6 +207,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractCollection.java" timestamp="1536854307577">
+        <mark key="'" line="34" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1488832111617">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="12" column="20" />
@@ -218,7 +223,7 @@
         <mark key="." line="2" column="45" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/OpinionsModule.java" timestamp="1536851597478" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1536162918536">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1536853864326">
         <mark key="'" line="917" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1523547647667">
@@ -278,6 +283,10 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="213" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" timestamp="1536853929535">
+        <mark key="'" line="285" column="20" />
+        <mark key="[" line="271" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/Stack.java" timestamp="1530853084289">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="7" column="14" />
@@ -302,9 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="87" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
-      <jump line="52" column="125" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="15" column="80" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="61" column="38" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
@@ -402,6 +408,9 @@
       <jump line="269" column="11" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/TheBriefModule.java" />
       <jump line="917" column="25" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" />
+      <jump line="675" column="30" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" />
+      <jump line="284" column="20" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" />
+      <jump line="34" column="22" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractCollection.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -411,7 +420,7 @@
         <text>InputFormat</text>
       </register>
       <register name="/" type="4">
-        <text>cardnumber</text>
+        <text>getDisplayName</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
@@ -448,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cardnumber</last-search>
+      <last-search>getDisplayName</last-search>
       <last-offset />
-      <last-pattern>cardnumber</last-pattern>
+      <last-pattern>getDisplayName</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -458,13 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disable</entry>
-        <entry>cookie</entry>
-        <entry>Cookie</entry>
-        <entry>FREE</entry>
-        <entry>free</entry>
-        <entry>saveEventually</entry>
-        <entry>Config</entry>
         <entry>Query</entry>
         <entry>gtmHead</entry>
         <entry>log</entry>
@@ -478,6 +480,13 @@
         <entry>background</entry>
         <entry>offset</entry>
         <entry>cardnumber</entry>
+        <entry>sailthr</entry>
+        <entry>Sail</entry>
+        <entry>Sailthru</entry>
+        <entry>sailthru</entry>
+        <entry>displayname</entry>
+        <entry>DisplayName</entry>
+        <entry>getDisplayName</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
