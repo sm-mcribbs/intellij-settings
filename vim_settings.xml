@@ -14,6 +14,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/render/components/cardshow/cardFullWidthImageTop.hbs" timestamp="1536853020180" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Cardshow.java" timestamp="1536852836372" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531335183901">
         <mark key="'" line="100" column="28" />
         <mark key="[" line="39" column="0" />
@@ -183,6 +185,9 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" timestamp="1536853089428">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="66" column="27" />
@@ -266,6 +271,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/render/components/cardshow/cardShow.hbs" timestamp="1536852889721" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/AbstractSiteMap.java" timestamp="1511805549700">
         <mark key="[" line="213" column="8" />
         <mark key="]" line="213" column="8" />
@@ -296,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="56" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/CEQuizResultsServlet.java" />
       <jump line="21" column="87" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="52" column="125" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
@@ -396,6 +401,7 @@
       <jump line="26" column="35" filename="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/MinHeap.java" />
       <jump line="269" column="11" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/TheBriefModule.java" />
       <jump line="917" column="25" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -405,7 +411,7 @@
         <text>InputFormat</text>
       </register>
       <register name="/" type="4">
-        <text>offset</text>
+        <text>cardnumber</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
@@ -442,9 +448,9 @@
       </register>
     </registers>
     <search>
-      <last-search>offset</last-search>
+      <last-search>cardnumber</last-search>
       <last-offset />
-      <last-pattern>offset</last-pattern>
+      <last-pattern>cardnumber</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GlobalSite</entry>
         <entry>disable</entry>
         <entry>cookie</entry>
         <entry>Cookie</entry>
@@ -472,6 +477,7 @@
         <entry>setDepth</entry>
         <entry>background</entry>
         <entry>offset</entry>
+        <entry>cardnumber</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
