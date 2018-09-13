@@ -75,6 +75,7 @@
         <mark key="." line="123" column="26" />
         <mark key="^" line="123" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Link.java" timestamp="1536851457925" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListStack.java" timestamp="1530853110309">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="43" column="30" />
@@ -211,6 +212,7 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/OpinionsModule.java" timestamp="1536851597478" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1536162918536">
         <mark key="'" line="917" column="25" />
       </file>
@@ -259,7 +261,6 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1536604781925" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/CardStackApp.java" timestamp="1530851361485">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
