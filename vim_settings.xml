@@ -75,7 +75,6 @@
         <mark key="." line="123" column="26" />
         <mark key="^" line="123" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Link.java" timestamp="1536869991742" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListStack.java" timestamp="1530853110309">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="43" column="30" />
@@ -260,6 +259,13 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SocialShare/CardShareViewModel.java" timestamp="1537377186472">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="33" column="10" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/conference/model/ConferenceSession.java" timestamp="1493241637111">
         <mark key="[" line="162" column="69" />
         <mark key="]" line="162" column="70" />
@@ -305,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="80" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="61" column="38" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="92" column="39" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
@@ -405,43 +410,44 @@
       <jump line="675" column="30" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" />
       <jump line="284" column="20" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" />
       <jump line="34" column="22" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractCollection.java" />
+      <jump line="24" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SocialShare/CardShareViewModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LnJlbmRlci5jb21tb24uU29jaWFsU2hhcmVCYXJWaWV3Owo=</text>
       </register>
       <register name="-" type="4">
         <text>InputFormat</text>
       </register>
       <register name="/" type="4">
-        <text>getDisplayName</text>
+        <text>if</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LnJlbmRlci5jb21tb24uU29jaWFsU2hhcmVCYXJWaWV3Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">NQlTaHJleWEJSmFuYW5pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NQlTaHJleWEJSmFuYW5pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NglKaXR1CVByYWRlZXAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">NglKaXR1CVByYWRlZXAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlSW5wdXRGb3JtYXQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlSW5wdXRGb3JtYXQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -451,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getDisplayName</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>getDisplayName</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -461,7 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Query</entry>
         <entry>gtmHead</entry>
         <entry>log</entry>
         <entry>INFO</entry>
@@ -481,6 +486,7 @@
         <entry>displayname</entry>
         <entry>DisplayName</entry>
         <entry>getDisplayName</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
