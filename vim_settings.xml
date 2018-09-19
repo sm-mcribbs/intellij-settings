@@ -14,8 +14,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/render/components/cardshow/cardFullWidthImageTop.hbs" timestamp="1536853020180" />
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Cardshow.java" timestamp="1536852836372" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531335183901">
         <mark key="'" line="100" column="28" />
         <mark key="[" line="39" column="0" />
@@ -77,7 +75,7 @@
         <mark key="." line="123" column="26" />
         <mark key="^" line="123" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Link.java" timestamp="1536851457925" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Link.java" timestamp="1536869991742" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/ListStack.java" timestamp="1530853110309">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="43" column="30" />
@@ -117,7 +115,6 @@
         <mark key="." line="218" column="29" />
         <mark key="^" line="279" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DisplayNameable.java" timestamp="1536854248770" />
       <file name="$USER_HOME$/Code/Personal/MapReduce/src/net/mcribbs/Reduce.java" timestamp="1531450820654">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="16" column="48" />
@@ -189,7 +186,6 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" timestamp="1536853089428">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/CEQuiz.java" timestamp="1536854119554" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="66" column="27" />
@@ -222,7 +218,6 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/OpinionsModule.java" timestamp="1536851597478" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1536853864326">
         <mark key="'" line="917" column="25" />
       </file>
@@ -276,7 +271,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/render/components/cardshow/cardShow.hbs" timestamp="1536852889721" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/AbstractSiteMap.java" timestamp="1511805549700">
         <mark key="[" line="213" column="8" />
         <mark key="]" line="213" column="8" />
