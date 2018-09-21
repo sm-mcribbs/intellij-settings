@@ -63,6 +63,9 @@
         <mark key="]" line="99" column="19" />
         <mark key="." line="99" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/ops/chef/files/default/production-site-redirects.conf" timestamp="1537553161017">
+        <mark key="'" line="139" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/Main.java" timestamp="1530851254107">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -311,8 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="38" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
-      <jump line="64" column="8" filename="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="92" column="39" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
       <jump line="84" column="73" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
       <jump line="94" column="14" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
@@ -411,6 +412,8 @@
       <jump line="284" column="20" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" />
       <jump line="34" column="22" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractCollection.java" />
       <jump line="24" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SocialShare/CardShareViewModel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/ops/chef/files/default/production-site-redirects.conf" />
+      <jump line="139" column="14" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/ops/chef/files/default/production-site-redirects.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -420,7 +423,7 @@
         <text>InputFormat</text>
       </register>
       <register name="/" type="4">
-        <text>if</text>
+        <text>financial-podcasts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
@@ -457,9 +460,9 @@
       </register>
     </registers>
     <search>
-      <last-search>if</last-search>
+      <last-search>financial-podcasts</last-search>
       <last-offset />
-      <last-pattern>if</last-pattern>
+      <last-pattern>financial-podcasts</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -467,9 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gtmHead</entry>
-        <entry>log</entry>
-        <entry>INFO</entry>
         <entry>LOGGER</entry>
         <entry>term</entry>
         <entry>RenewalTerm</entry>
@@ -487,6 +487,9 @@
         <entry>DisplayName</entry>
         <entry>getDisplayName</entry>
         <entry>if</entry>
+        <entry>pod</entry>
+        <entry>podcsats</entry>
+        <entry>financial-podcasts</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
