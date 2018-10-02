@@ -1,22 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../src/main/java/com/sourcemedia [source-media-cms]'" />
+    <option name="defaultScopeName" value="Directory '.../src/main/java/com/sourcemedia [source-media-cms]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.hbs</mask>
-      <mask>quiz*.hbs</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Directory '.../src/main/java/com/sourcemedia [source-media-cms]'" />
   </component>
 </application>
