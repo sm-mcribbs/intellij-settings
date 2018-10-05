@@ -63,7 +63,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/ContentCarousel.java" timestamp="1538747877210" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutsApiResponse.java" timestamp="1538763040112" />
       <file name="$USER_HOME$/Code/Personal/MapReduce/data/input/rawViews.txt" timestamp="1531453569321">
         <mark key="[" line="99" column="19" />
         <mark key="]" line="99" column="19" />
@@ -78,7 +78,6 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/DynamicAndCuratedFields.java" timestamp="1538748116289" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1515773785743">
         <mark key="[" line="123" column="24" />
         <mark key="]" line="123" column="26" />
@@ -117,7 +116,7 @@
         <mark key="." line="23" column="62" />
         <mark key="^" line="23" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1533235276400">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1538763143990">
         <mark key="'" line="588" column="29" />
         <mark key="[" line="218" column="29" />
         <mark key="]" line="218" column="29" />
@@ -262,7 +261,6 @@
         <mark key="^" line="269" column="11" />
         <mark key="." line="269" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/ContentCarouselViewCreator.java" timestamp="1538747999279" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/ContactManagerApp.java" timestamp="1531325385290">
         <mark key="'" line="108" column="0" />
         <mark key="[" line="66" column="0" />
