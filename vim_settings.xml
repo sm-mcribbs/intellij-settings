@@ -63,6 +63,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/sm-mod-author.less" timestamp="1539268975137">
+        <mark key="'" line="27" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/Personal/MapReduce/data/input/rawViews.txt" timestamp="1531453569321">
         <mark key="[" line="99" column="19" />
         <mark key="]" line="99" column="19" />
@@ -179,7 +182,6 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/pom.xml" timestamp="1539110633908" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -320,8 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="39" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
-      <jump line="84" column="73" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
       <jump line="94" column="14" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
       <jump line="105" column="34" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
       <jump line="67" column="46" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" />
@@ -420,6 +420,8 @@
       <jump line="24" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SocialShare/CardShareViewModel.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/ops/chef/files/default/production-site-redirects.conf" />
       <jump line="139" column="14" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/ops/chef/files/default/production-site-redirects.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/sm-mod-author.less" />
+      <jump line="27" column="5" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/sm-mod-author.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -429,7 +431,7 @@
         <text>InputFormat</text>
       </register>
       <register name="/" type="4">
-        <text>financial-podcasts</text>
+        <text>bio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
@@ -466,9 +468,9 @@
       </register>
     </registers>
     <search>
-      <last-search>financial-podcasts</last-search>
+      <last-search>bio</last-search>
       <last-offset />
-      <last-pattern>financial-podcasts</last-pattern>
+      <last-pattern>bio</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LOGGER</entry>
         <entry>term</entry>
         <entry>RenewalTerm</entry>
         <entry>renewalTerm</entry>
@@ -496,6 +497,7 @@
         <entry>pod</entry>
         <entry>podcsats</entry>
         <entry>financial-podcasts</entry>
+        <entry>bio</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
