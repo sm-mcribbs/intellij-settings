@@ -80,7 +80,6 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/BreakerViewCreator.java" timestamp="1540241043210" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/FeedResultsListable.java" timestamp="1515773785743">
         <mark key="[" line="123" column="24" />
         <mark key="]" line="123" column="26" />
@@ -119,7 +118,7 @@
         <mark key="." line="23" column="62" />
         <mark key="^" line="23" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1539798307317">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1540242540701">
         <mark key="'" line="588" column="29" />
         <mark key="[" line="218" column="29" />
         <mark key="]" line="218" column="29" />
@@ -229,7 +228,6 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/main/ArticleViewCreator.java" timestamp="1540240848867" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1536853864326">
         <mark key="'" line="917" column="25" />
       </file>
