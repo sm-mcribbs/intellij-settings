@@ -170,6 +170,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1540316785082" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -196,6 +197,7 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" timestamp="1536853089428">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/render/components/brief/brief-item.hbs" timestamp="1540316730393" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="66" column="27" />
@@ -256,7 +258,7 @@
         <mark key="]" line="71" column="38" />
         <mark key="." line="71" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/TheBriefModule.java" timestamp="1536162355354">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/TheBriefModule.java" timestamp="1540316315764">
         <mark key="'" line="269" column="11" />
         <mark key="[" line="269" column="12" />
         <mark key="]" line="269" column="11" />
