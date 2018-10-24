@@ -21,6 +21,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="79" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/reports/ceReport.jsp" timestamp="1540392105924">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="32" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1509133024125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -170,7 +176,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/TheBriefModuleViewCreator.java" timestamp="1540316785082" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -197,7 +202,6 @@
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" timestamp="1536853089428">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/render/components/brief/brief-item.hbs" timestamp="1540316730393" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="66" column="27" />
@@ -429,11 +433,11 @@
       <jump line="170" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ0VzY2FwZVV0aWxzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>theQuizesRS</text>
       </register>
       <register name="-" type="4">
-        <text>InputFormat</text>
+        <text>theQuizesRS</text>
       </register>
       <register name="/" type="4">
         <text>MBIS</text>
@@ -442,31 +446,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ0VzY2FwZVV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENFUXVpeiBhUXVpeiA9IHRoZVF1aXplcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LnJlbmRlci5jb21tb24uU29jaWFsU2hhcmVCYXJWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRoZVF1aXplcy5oYXNOZXh0KCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodGhlUXVpemVzLmhhc05leHQoKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NQlTaHJleWEJSmFuYW5pCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ0VzY2FwZVV0aWxzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LnJlbmRlci5jb21tb24uU29jaWFsU2hhcmVCYXJWaWV3Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NglKaXR1CVByYWRlZXAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">NQlTaHJleWEJSmFuYW5pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlT3V0cHV0Rm9ybWF0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZC5GaWxlSW5wdXRGb3JtYXQ7Cg==</text>
+        <text encoding="base64">NglKaXR1CVByYWRlZXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
