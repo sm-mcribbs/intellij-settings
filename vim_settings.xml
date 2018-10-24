@@ -124,6 +124,7 @@
         <mark key="." line="23" column="62" />
         <mark key="^" line="23" column="62" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/corp/viewmodel/CorporateHomePageViewModel.java" timestamp="1540405626544" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" timestamp="1540242540701">
         <mark key="'" line="588" column="29" />
         <mark key="[" line="218" column="29" />
@@ -176,6 +177,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Article.java" timestamp="1540406466691" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
@@ -188,6 +190,7 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/SlideshowViewModel.java" timestamp="1540406651636" />
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -199,6 +202,7 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/ingestion/ATauthorsIngestion.java" timestamp="1540405693403" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" timestamp="1536853089428">
         <mark key="'" line="0" column="0" />
       </file>
@@ -254,9 +258,6 @@
         <mark key="." line="571" column="51" />
         <mark key="^" line="566" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/User.java" timestamp="1531421259436">
-        <mark key="[" line="732" column="47" />
-      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/corp/viewmodel/CorporateHeaderViewModel.java" timestamp="1517939724000">
         <mark key="[" line="71" column="38" />
         <mark key="]" line="71" column="38" />
@@ -289,6 +290,7 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/salesforce/SourceMediaSalesforceProxyClient.java" timestamp="1540405793981" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1539627191412">
         <mark key="'" line="170" column="0" />
       </file>
@@ -303,6 +305,7 @@
         <mark key="^" line="210" column="16" />
         <mark key="." line="213" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/tool/ContentTypeResourcesWidget.java" timestamp="1540406104972" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" timestamp="1538596282340">
         <mark key="'" line="285" column="20" />
         <mark key="[" line="271" column="21" />
@@ -313,15 +316,13 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/api/viewmodel/RestApiPdfResponseViewModel.java" timestamp="1540405493727" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="^" line="88" column="12" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1531451682139">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1492627402632">
         <mark key="[" line="65" column="0" />
