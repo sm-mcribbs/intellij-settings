@@ -9,11 +9,7 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Personal/MapReduce/src/net/mcribbs/Main.java" timestamp="1531450862382">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraRestClient.java" timestamp="1543519446378" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531335183901">
         <mark key="'" line="100" column="28" />
         <mark key="[" line="39" column="0" />
@@ -72,33 +68,12 @@
         <mark key="^" line="152" column="71" />
         <mark key="." line="152" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/corp/viewmodel/CorporateMediakitsPageViewModel.java" timestamp="1465251162864">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/modules/SocialShare/SocialShareBarViewModel.java" timestamp="1538580829282">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/sm-mod-author.less" timestamp="1539268975137">
-        <mark key="'" line="27" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/taxonomy/FeedPage.java" timestamp="1541012742783">
         <mark key="'" line="574" column="0" />
         <mark key="[" line="659" column="10" />
         <mark key="]" line="659" column="10" />
         <mark key="." line="659" column="10" />
         <mark key="^" line="659" column="10" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/MapReduce/data/input/rawViews.txt" timestamp="1531453569321">
-        <mark key="[" line="99" column="19" />
-        <mark key="]" line="99" column="19" />
-        <mark key="." line="99" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/ops/chef/files/default/production-site-redirects.conf" timestamp="1537553161017">
-        <mark key="'" line="139" column="14" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/Main.java" timestamp="1530851254107">
         <mark key="[" line="9" column="0" />
@@ -163,11 +138,12 @@
         <mark key="." line="218" column="29" />
         <mark key="^" line="279" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Infographic.java" timestamp="1543517262579">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Infographic.java" timestamp="1543518886991">
         <mark key="'" line="92" column="12" />
-        <mark key="[" line="90" column="12" />
-        <mark key="]" line="90" column="12" />
-        <mark key="." line="90" column="12" />
+        <mark key="[" line="115" column="25" />
+        <mark key="]" line="115" column="25" />
+        <mark key="." line="115" column="25" />
+        <mark key="^" line="115" column="25" />
       </file>
       <file name="$USER_HOME$/Code/Personal/MapReduce/src/net/mcribbs/Reduce.java" timestamp="1531450820654">
         <mark key="[" line="12" column="8" />
@@ -220,16 +196,29 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Article.java" timestamp="1543518989838">
+        <mark key="'" line="36" column="12" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="12" />
+        <mark key="." line="66" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/OpinionArticle.java" timestamp="1543518951336">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="12" />
+        <mark key="." line="75" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/webapp/render/components/cequiz/cequiz.hbs" timestamp="1488830605363">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="56" />
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DataArticle.java" timestamp="1500997210745">
-        <mark key="[" line="96" column="20" />
-        <mark key="]" line="96" column="20" />
-        <mark key="." line="96" column="20" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DataArticle.java" timestamp="1543518933505">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="12" />
+        <mark key="." line="88" column="12" />
         <mark key="^" line="96" column="18" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DataResearch.java" timestamp="1543517037343">
@@ -245,26 +234,18 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/PressRelease.java" timestamp="1543517131547">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="68" column="173" />
-        <mark key="]" line="68" column="173" />
-        <mark key="." line="68" column="173" />
-        <mark key="^" line="67" column="67" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/PressRelease.java" timestamp="1543519817545">
+        <mark key="'" line="80" column="12" />
+        <mark key="[" line="101" column="51" />
+        <mark key="]" line="101" column="51" />
+        <mark key="." line="101" column="51" />
+        <mark key="^" line="101" column="51" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/modules/CEQuizQuestionsViewCreator.java" timestamp="1488832385170">
         <mark key="[" line="56" column="50" />
         <mark key="]" line="56" column="24" />
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/styles/components/cardshow.less" timestamp="1536853089428">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/BasicStack.java" timestamp="1530851209296">
         <mark key="[" line="63" column="5" />
@@ -277,14 +258,6 @@
         <mark key="]" line="45" column="18" />
         <mark key="." line="45" column="18" />
         <mark key="^" line="45" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/apps/TestMinHeap.java" timestamp="1531417448684">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/AbstractCollection.java" timestamp="1536854307577">
-        <mark key="'" line="34" column="22" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/source/styleguide/components/cequiz/cequiz.json" timestamp="1488832111617">
         <mark key="[" line="11" column="22" />
@@ -304,18 +277,11 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1536853864326">
-        <mark key="'" line="917" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523547647667">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/view/main/CEQuizViewCreator.java" timestamp="1465251583668">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" timestamp="1543519024151">
+        <mark key="'" line="38" column="13" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraSoapClient.java" timestamp="1516994204310">
         <mark key="'" line="589" column="98" />
@@ -323,11 +289,6 @@
         <mark key="]" line="566" column="53" />
         <mark key="." line="571" column="51" />
         <mark key="^" line="566" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/corp/viewmodel/CorporateHeaderViewModel.java" timestamp="1517939724000">
-        <mark key="[" line="71" column="38" />
-        <mark key="]" line="71" column="38" />
-        <mark key="." line="71" column="38" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/modules/TheBriefModule.java" timestamp="1540316315764">
         <mark key="'" line="269" column="11" />
@@ -362,23 +323,17 @@
         <mark key="^" line="162" column="70" />
         <mark key="." line="162" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" timestamp="1539627191412">
-        <mark key="'" line="170" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/CardStackApp.java" timestamp="1530851361485">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Index.java" timestamp="1543518912393">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="74" column="12" />
+        <mark key="." line="74" column="12" />
       </file>
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/job/AbstractSiteMap.java" timestamp="1511805549700">
         <mark key="[" line="213" column="8" />
         <mark key="]" line="213" column="8" />
         <mark key="^" line="210" column="16" />
         <mark key="." line="213" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/pages/AbstractPageViewCreator.java" timestamp="1538596282340">
-        <mark key="'" line="285" column="20" />
-        <mark key="[" line="271" column="21" />
       </file>
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/Stack.java" timestamp="1530853084289">
         <mark key="[" line="6" column="21" />
@@ -401,17 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="761" column="33" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
-      <jump line="764" column="51" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
-      <jump line="765" column="39" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
-      <jump line="164" column="47" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/GlobalSiteSettings.java" />
-      <jump line="25" column="57" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
-      <jump line="61" column="41" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
-      <jump line="63" column="58" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
-      <jump line="64" column="38" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
-      <jump line="65" column="57" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
-      <jump line="76" column="57" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
-      <jump line="78" column="33" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
       <jump line="79" column="48" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/auth/AuthFilter.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" />
       <jump line="279" column="45" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/zuora/ZuoraCalloutApiResponseViewModel.java" />
@@ -501,6 +445,17 @@
       <jump line="33" column="13" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Infographic.java" />
       <jump line="61" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Infographic.java" />
       <jump line="92" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Infographic.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Index.java" />
+      <jump line="43" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Index.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DataArticle.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/DataArticle.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/OpinionArticle.java" />
+      <jump line="45" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/OpinionArticle.java" />
+      <jump line="38" column="132" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Article.java" />
+      <jump line="36" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Article.java" />
+      <jump line="43" column="13" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/view/util/HeadViewUtils.java" />
+      <jump line="72" column="6" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/PressRelease.java" />
+      <jump line="80" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/PressRelease.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -516,31 +471,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5mb3JtYXQuRGF0ZVRpbWVGb3JtYXR0ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5TdHJpbmdFc2NhcGVVdGlsczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5tb2RlbC5Qcm9tb3RhYmxlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5tb2RlbC5JbWFnZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENFUXVpeiBhUXVpeiA9IHRoZVF1aXplcy4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS5tb2RlbC5BdXRob3JlZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRoZVF1aXplcy5oYXNOZXh0KCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodGhlUXVpemVzLmhhc05leHQoKSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ0VzY2FwZVV0aWxzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zb3VyY2VtZWRpYS52aWV3LnJlbmRlci5jb21tb24uU29jaWFsU2hhcmVCYXJWaWV3Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
