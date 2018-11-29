@@ -27,7 +27,6 @@
         <mark key="^" line="31" column="46" />
         <mark key="." line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Tweet.java" timestamp="1543425858313" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/Code.java" timestamp="1509133024125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -202,7 +201,7 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/pom.xml" timestamp="1541534260858">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/pom.xml" timestamp="1543513168659">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dropbox/Code/SourceMedia/source-media-cms/source/src/main/java/com/sourcemedia/util/Code.java" timestamp="1472236710226">
@@ -348,8 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="20" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" />
-      <jump line="28" column="19" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" />
       <jump line="40" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" />
       <jump line="43" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" />
       <jump line="49" column="12" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" />
@@ -446,8 +443,10 @@
       <jump line="170" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/site/SourceMediaSite.java" />
       <jump line="151" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/taxonomy/FeedPage.java" />
       <jump line="574" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/taxonomy/FeedPage.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/pom.xml" />
       <jump line="35" column="13" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/viewmodel/BranchViewModel.java" />
+      <jump line="210" column="24" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/pom.xml" />
+      <jump line="214" column="23" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/SourceMedia/source-media-cms/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -457,7 +456,7 @@
         <text>theQuizesRS</text>
       </register>
       <register name="/" type="4">
-        <text>SocialContent</text>
+        <text>bsp.social</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLm1hcHJlZHVjZS5saWIuaW5wdXQuRmlsZUlucHV0Rm9ybWF0Owo=</text>
@@ -494,9 +493,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SocialContent</last-search>
+      <last-search>bsp.social</last-search>
       <last-offset />
-      <last-pattern>SocialContent</last-pattern>
+      <last-pattern>bsp.social</last-pattern>
       <last-replace>.append(&quot;#####&quot;)</last-replace>
       <last-substitute>.append(&quot;\n&quot;)</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depth</entry>
         <entry>setDepth</entry>
         <entry>background</entry>
         <entry>offset</entry>
@@ -524,6 +522,7 @@
         <entry>MBIS</entry>
         <entry>drm</entry>
         <entry>SocialContent</entry>
+        <entry>bsp.social</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dwXy90bV8vZw==</entry>
