@@ -9,7 +9,6 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/webapp/assets/scripts/plugins/google-ad-new.js" timestamp="1543947200073" />
       <file name="$USER_HOME$/Code/Personal/Practice/src/net/mcribbs/ds/BasicBinaryTree.java" timestamp="1531335183901">
         <mark key="'" line="100" column="28" />
         <mark key="[" line="39" column="0" />
@@ -265,6 +264,7 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/messages/Nitf.java" timestamp="1544027334468" />
       <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/model/Podcast.java" timestamp="1543517056813">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="92" column="12" />
@@ -341,7 +341,7 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1501102499313">
+      <file name="$USER_HOME$/Code/SourceMedia/source-media-cms/src/main/java/com/sourcemedia/util/NitfSyndicationTask.java" timestamp="1544027247415">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
